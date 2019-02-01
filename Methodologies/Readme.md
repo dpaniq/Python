@@ -1,0 +1,11 @@
+Methodology of imperative programming
+OOP Methodology
+Functional programming methodology
+Methodology logic programming
+Restriction Programming Methodology
+
+Методология императивного программирования
+Методология ООП
+Методология функционального программирования
+Методология логическое программирование
+Методология программирования в ограничениях

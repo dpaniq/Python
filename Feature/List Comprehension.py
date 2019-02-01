@@ -46,17 +46,13 @@
 #                 for z in y:
 #                     # have z
 # In other words, instead of going down a line and indenting, in a list-comprehension you just add the next loop on to the end.
-
-# [x for       x         in b] - single for
-# [x for |b in a | for x in b] - double for
-
-print(*[x for x in range(7)], sep = (' '))
-
-# 1. Выводим X
-# 2. Для каждого Y в итераторе
-# 3. Для каждого X в Y
+# ------------------------------------------------
 # [x for y in collection for x in y]
-
+# ------------------------------------------------ we can think like this
+# [(for output(x))   for y in collection \
+#        ^         # for x in y]
+#        ^---------# output x
+# ------------------------------------------------
 # print(*[x for n in range(7) for x in range(n)], sep = ' ')
 
 # this code
@@ -66,3 +62,7 @@ for i in range(7):
 
 # its similar:
 print(*[n for n in range(int(intput())) for x in range(n)], sep = ' ')
+
+
+Dictionary:
+https://stackoverflow.com/questions/1747817/create-a-dictionary-with-list-comprehension-in-python
