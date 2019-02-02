@@ -1,57 +1,75 @@
-###Direction in development
+# Direction in development
 
-1. General:
-Base things
+### 1. General:
 
-2. Word processing / Обработка текста:
+>Base things
+
+### 2.  Word processing / Обработка текста:
 
 > Regular Expression / Регулярные выражения	
 ---
->Graphics / Графика:
+### 3. Graphics / Графика:
 
-WX
-Turtle
-Qt
+>WX
+
+>Turtle
+
+>Qt
 
 ---
->Web / Сайт:
-	Parser:
-		XML
-		CSV
-		JSON
-	Flask
-	Django
+### 4. Web / Сайт:
+
+> Parser:
+* XML
+* CSV
+* JSON
+
+> Flask
+
+> Django
 ---
->Applications / Приложение:
-	Consoles / Консольная
-	Desktop / Десктопное
-	Mobile / Мобильное
+### 5. Applications / Приложение:
+
+> Consoles / Консольная
+
+> Desktop / Десктопное
+	
+> Mobile / Мобильное
+	
 ---		
->Multimedia / Мультимедия:
-	Image / Изображения
-	Video / Видео
-	Music / Музыка
+### 6. Multimedia / Мультимедия:
+
+> 	Image / Изображения
+
+>	Video / Видео
+
+>	Music / Музыка
 ---
->Maths / Математика:
-	Counts (Графы)
-	Linear graphs / Линейная графика)
-	Combinatorics / Комбинаторика)
-	Logic algebra / Алгебра логики)
+### 7. Maths / Математика:
+
+> Counts (Графы)
+
+> Linear graphs / Линейная графика)
+	
+> Combinatorics / Комбинаторика)
+	
+> Logic algebra / Алгебра логики)
+	
 ---
->Computer science / Информатика:
+### 8. Computer science / Информатика:
 ---
->Data Science / Наука данных:
-	Statistic / Статистика
+### 9. Data Science / Наука данных:
+> Statistic / Статистика
 ---
->Machine Learning﻿ / Машинное обучение:
+### 10. Machine Learning / Машинное обучение:
 ---
->Big Data / Большие данные
+### 11. Big Data / Большие данные
 ---
->Artificial Intelligence / Искусственный интеллект
+### 12. Artificial Intelligence / Искусственный интеллект
 ---
->Databases / Базы данных
+### 13. Databases / Базы данных
 ---
->Object Oriented Programming / ООП
+### 14. Object Oriented Programming / ООП
 ---
->Testing / Тестирование
+### 15. Testing / Тестирование
 ---
