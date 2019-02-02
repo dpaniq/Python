@@ -1,12 +1,11 @@
-###Direction in development###
+###Direction in development
 
-Genreal:
+1. General:
+Base things
 
-1.Base things
----
->Word processing / Обработка текста:
+2. Word processing / Обработка текста:
 
-Regular Expression / Регулярные выражения	
+> Regular Expression / Регулярные выражения	
 ---
 >Graphics / Графика:
 
