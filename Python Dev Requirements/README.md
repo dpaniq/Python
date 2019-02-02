@@ -1,21 +1,37 @@
 
-# Developer requirements / Требования к кандидату:
+# I fit requirements requirements / Я соответствую требованиям
 ## Subjects / Темы:
+
+
+<!---
+⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  
+-->
 
 `Highlighting` - applied in the works.
 `Подсвеченное` - применял в работе.
 
-**`Highlighting`** - strong knowledge.
-**`Подсвеченное`** -  уверенные знания.
+**`Highlighting-bold`** - strong knowledge.
+**`Подсвеченное-жирным`** -  уверенные знания.
+
+> **Libraries / Библиотеки**:
+
+<!---
+Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Kivy ⦁  ⦁ Nltk ⦁ OpenCV ⦁ Pymorphy2 ⦁ Pandas ⦁ PyQt ⦁ SageMath ⦁ SciPy ⦁ Scrapy ⦁ Seaborn ⦁ Snowballstemmer  ⦁	SymPy ⦁	WinPython
+-->
+
+ ⦁ `Matplotlib` ⦁ `NumPy` ⦁ `Python Imaging Library` ⦁ `PyPI` ⦁ `Standart Library` ⦁ `Tkinter` ⦁ 
+
+---
 
 
-
-### Programming Language
-> **Python**:
-
-Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Kivy ⦁ `Matplotlib` ⦁ Nltk ⦁ `NumPy` ⦁ OpenCV ⦁ Pymorphy2 ⦁ Pandas ⦁	`PyPI` ⦁ PyQt ⦁ `Python Imaging Library` ⦁ SageMath ⦁ SciPy ⦁ Scrapy ⦁ Seaborn ⦁ Snowballstemmer ⦁ `Standart Library` ⦁	SymPy ⦁	`Tkinter` ⦁	WinPython
+// Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Kivy ⦁ `Matplotlib` ⦁ Nltk ⦁ `NumPy` ⦁ OpenCV ⦁ Pymorphy2 ⦁ Pandas ⦁	`PyPI` ⦁ PyQt ⦁ `Python Imaging Library` ⦁ SageMath ⦁ SciPy ⦁ Scrapy ⦁ Seaborn ⦁ Snowballstemmer ⦁ `Standart Library` ⦁	SymPy ⦁	`Tkinter` ⦁	WinPython
 
 >	**HTML5 + CSS**
+
+<!---
+your comment goes here
+and here
+-->
 
 ⦁	SQL
 ⦁	JS/JQUERY
@@ -26,6 +42,11 @@ Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Ki
 ⦁	React.js
 
 ---
+
+<!---
+your comment goes here
+and here
+-->
 
 Фреймворки:
 ⦁	DJANGO 2+
@@ -46,6 +67,17 @@ Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Ki
 ⦁	CPython
 ⦁	QTDesinger
 ⦁	Dynamo + Revit
+
+<!---
+your comment goes here
+and here
+-->
+
+<!---
+your comment goes here
+and here
+-->
+
 Подходы:
 ⦁	ООП
 ⦁	SOLID
@@ -59,6 +91,11 @@ Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Ki
 ⦁	Elasticsearch
 ⦁	memcached
 ⦁	
+<!---
+your comment goes here
+and here
+-->
+
 Функциональная часть:
 ⦁	Reg – регулярные выражения
 ⦁	GIT LAb
@@ -96,6 +133,10 @@ Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Ki
 ⦁	Spark
 ⦁	ETL (Dataiku, Cask, Pentaho)
 
+<!---
+your comment goes here
+and here
+-->
 
 Наука:
 ⦁	Численные методы
@@ -105,6 +146,12 @@ Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Ki
 ⦁	Теория графов
 ⦁	Марковские модели
 ⦁	Методы численного анализа
+
+<!---
+your comment goes here
+and here
+-->
+
 Алгоритмы:
 ⦁	Sorting Algorithms 
 a.	- Bubble sort
@@ -129,6 +176,11 @@ b.	- Binary Search
 ⦁	Data Mining
 ⦁	Нейронные сети
 ⦁	
+
+<!---
+your comment goes here
+and here
+-->
 
 Понимание:
 ⦁	Общие:
@@ -155,6 +207,12 @@ b.	- Binary Search
 ⦁	Рефакторинг текущей кодовой базы
 ⦁	Развертка репозитория на новом сервере
 ⦁	Методов классификации/регрессии/кластеризации
+
+<!---
+your comment goes here
+and here
+-->
+
 ⦁	БД:
 ⦁	Настройки репликации на MySQL / PostgreSQL
 ⦁	Создания системы резервных копий БД
@@ -164,10 +222,21 @@ b.	- Binary Search
 ⦁	REST
 ⦁	API: Разработка API методов
 
+<!---
+your comment goes here
+and here
+-->
+
 Коллективное окружение/Методологии
 ⦁	SCRUM
 ⦁	Agile
 ⦁	RUP
+
+<!---
+your comment goes here
+and here
+-->
+
 Сайты с задачами
 ⦁	Stepik.org
 ⦁	SoloLearn
@@ -195,11 +264,23 @@ b.	- Binary Search
 ⦁	LeetCode
 ⦁	Codeforces
 ⦁	Kaggle
+
+<!---
+your comment goes here
+and here
+-->
+
 Облачное хранилище
 ⦁	Redshift
 ⦁	Azure Data Warehouse
 ⦁	Lake
 ⦁	HDInsight
+
+<!---
+your comment goes here
+and here
+-->
+
 Еще!
 ⦁	Знание английского языка на уровне чтения технической литературы
 ⦁	Совместные проекты
