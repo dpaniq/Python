@@ -10,21 +10,19 @@
 
 > Functions
 
-⦁ `abs()` ⦁ `dict()` ⦁ `help()` ⦁ `min()` ⦁ `setattr()` ⦁ <br>
-⦁ `all()` ⦁ `dir()` ⦁ `hex()` ⦁ `next()` ⦁ `slice()` ⦁<br>
-⦁ `any()` ⦁ `divmod()` ⦁ `id()` ⦁ `object()` ⦁ `sorted()` ⦁<br>
-⦁ `ascii()` ⦁ `enumerate()` ⦁ `input()` ⦁ `oct()` ⦁ `staticmethod()` ⦁<br>
-⦁ `bin()` ⦁ `eval()` ⦁ `int()` ⦁ `open()` ⦁ `str()` ⦁<br>
-⦁ `bool()` ⦁  `exec()` ⦁ `isinstance()` ⦁ `ord()` ⦁ `sum()` ⦁<br>
-⦁ `bytearray()` ⦁ `filter(`) ⦁ `issubclass()` ⦁ `pow()` ⦁ `super()` ⦁<br>
-⦁ `bytes()` ⦁ `float()` ⦁ `iter()` ⦁ `print()` `tuple()` ⦁<br>
-⦁ `callable()` ⦁ `property()` ⦁ `format()` ⦁ `len()` ⦁ `type()` ⦁<br>
-⦁ `chr()` ⦁ `frozenset()` ⦁ `list()` ⦁ `range()` ⦁ `vars()` ⦁<br>
-⦁ `classmethod()` ⦁ `getattr()` ⦁ `locals()` ⦁ `repr()` ⦁ `zip()` ⦁<br>
-⦁ `compile()` ⦁ `globals()` ⦁ `map()` ⦁ `reversed()` ⦁ `complex()` ⦁<br>
-⦁ `hasattr()` ⦁ `max()` ⦁ `round()` ⦁ `delattr()` ⦁ `hash()` ⦁<br>
-⦁ `memoryview()` ⦁ `set()` ⦁ `__import__()` ⦁ <br>
-				
+ ⦁ ` abs() `  ⦁ ` all() `  ⦁ ` any() `  ⦁ ` ascii() `  ⦁ ` bin() `  ⦁ ` bool() ` ⦁ <br>
+ ⦁ ` bytearray() `  ⦁ ` bytes() `  ⦁ ` callable() `  ⦁ ` chr() `  ⦁ ` classmethod() ` ⦁  <br>
+ ⦁ ` compile() `  ⦁ ` complex() `  ⦁ ` delattr() `  ⦁ ` dict() `  ⦁ ` dir() `  ⦁ ` divmod() ` ⦁  <br>
+ ⦁ ` enumerate() `  ⦁ ` eval() `  ⦁ ` exec() `  ⦁ ` filter() `  ⦁ ` float() `  ⦁ ` format() ` ⦁  <br>
+ ⦁ ` frozenset() `  ⦁ ` getattr() `  ⦁ ` globals() `  ⦁ ` hasattr() `  ⦁ ` hash() `  ⦁ ` help() ` ⦁ <br>
+ ⦁ ` hex() `  ⦁ ` id() `  ⦁ ` input() `  ⦁ ` int() `  ⦁ ` isinstance() `  ⦁ ` issubclass() ` ⦁ <br>
+ ⦁ ` iter() `  ⦁ ` len() `  ⦁ ` list() `  ⦁ ` locals() `  ⦁ ` map() `  ⦁ ` max() ` ⦁  <br>
+ ⦁ ` memoryview() `  ⦁ ` min() `  ⦁ ` next() `  ⦁ ` object() `  ⦁ ` oct() `  ⦁ ` open() ⦁ ` <br>
+ ⦁ ` ord() `  ⦁ ` pow() `  ⦁ ` print()  ⦁  tuple() `  ⦁ ` property() `  ⦁ ` range() ` ⦁ <br>
+ ⦁ ` repr() `  ⦁ ` reversed() `  ⦁ ` round() `  ⦁ ` set() ⦁ __import__() ` ⦁ ` setattr() ` ⦁ <br>
+ ⦁ ` slice() ` ⦁ ` sorted() `  ⦁ ` staticmethod() `  ⦁ ` str() `  ⦁ ` sum() `  ⦁ ` super() ` ⦁ <br>
+ ⦁ ` type() `  ⦁ ` vars() `  ⦁ ` zip() `
+
 > Analysis
 
  ⦁ `type()` ⦁ `dir()` ⦁ `id()` ⦁ `getattr()` ⦁  `hasattr()` ⦁ <br>
