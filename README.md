@@ -3,7 +3,7 @@
 -----------------------------------------
 Direction in development
 
-Genreal 
+>Genreal 
 	Base things
 
 Word processing / Обработка текста
