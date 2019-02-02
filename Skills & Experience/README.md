@@ -2,11 +2,10 @@
 # Skills & experience / Навыки и опыт
 ## Subjects / Темы:
 
-Simple text - understanding / Прстой тект - понимание
-`Highlighting` - used
-`Подсвеченное` - использовал
-**`Highlighting-bold`** - strong knowledge
-**`Подсвеченное-жирным`** - уверенные знания
+Simple text - understanding<br>
+`Highlighting` - used<br>
+**`Highlighting-bold`** - strong knowledge<br>
+
 
 
 > General
