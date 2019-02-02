@@ -1,13 +1,13 @@
 Website   Verification  		Link to profile							Rank
---------------------------------------------------------------------------------
+---
 Sololearn 	- G+ -	 https://www.sololearn.com/Profile/1456634	                       
 		[Pass][Сertificate]	Python 3	
 		[Pass][Сertificate]	СSS
 		[Pass][Сertificate]	HTML
---------------------------------------------------------------------------------
+---
 Stepik	 	- G+ -	 https://stepik.org/users/29204177       		  Rank: 82187
                 [25/75][Currently]	INTD 121 Version 3		
---------------------------------------------------------------------------------
+---
 Hakerrank 	- G+ -   https://www.hackerrank.com/14brother             Rank: 16083                                 
 		[53/115][Currently]	Language Proficiency: Python
 		[0/69] [None]		Interview Preparaiton Kit: Python
@@ -22,6 +22,16 @@ Hakerrank 	- G+ -   https://www.hackerrank.com/14brother             Rank: 16083
 		[0/10] [None]		10 Days of statistics
 
 More options
---------------------------------------------------------------------------------
+---
 Site 	  - https://www.site.com/14brother                              	Rank
---------------------------------------------------------------------------------
+---
+
+> P - mean passed course |  C - mean certificate | 
+
+| Website          |  Link to Profile 			         |	  Rank       |	Verification         |
+| :--------------: | :--------------------------------------:    | :------------:    | :-------------------: |
+| SoloLearn        | https://www.sololearn.com/Profile/1456634   | 	 	     | G+                    |
+| 		   | Status     | 								     Courses |
+| 	           | [Pass] Python3            | asdasdasd       | asda | asdasd       |
+|        	   | [Pass] Python3            | asdasdasd       | asda | asdasd       |
+|        	   | [Pass] Python3            | asdasdasd       | asda | asdasd       |
