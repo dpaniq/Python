@@ -1,4 +1,4 @@
-# Direction in development
+# Direction in development / Направления в разработке
 
 ### 1. General:
 
