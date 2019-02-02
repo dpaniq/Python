@@ -1,3 +1,5 @@
+s { color: green }
+em { color: blue }
 Required:
 
 Applicant MUST have two solid years of Django application development.
