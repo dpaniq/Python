@@ -8,13 +8,13 @@
 | 	               | `Certificate` | CSS |
 | 	               | `Certificate` | HTML |
 |      		         |    		       |    	     				                      | 						                                     |
-| **Stepik**       | 	       	     |    	     				                      | **https://stepik.org/users/29204177**      	    |
+| **Stepik**       | 	       	     |    	     				                      | **https://stepik.org/users/29204177**      	     |
 | 	               | `Completed`   | Азы Python 3+ Первый шаг <br>(Моисеев Иван) | 
 | 	               | `Completed`   | Introduction to Python <br>(Bartucz John) |
 | 	               | `Completed`   | 6 Introduction to Python <br>(Grote Robert) |
 |      		         |    		       |    	     				                      | 						                                     |
 | **Hackerrank**   | 	      	     |    	     				                      | **https://www.hackerrank.com/14brother**   	     |
-| 	               | `In``[65/115]`| Language Proficiency: Python |
+| 	               |`In` `[65/115]`| Language Proficiency: Python |
 | 	               | `In queue`    | Interview Preparaiton Kit: Python |
 | 	               | `In queue`    | Problem Solving: Algorithms |
 | 	               | `In queue`    | Problem Solving: Data Structures |
