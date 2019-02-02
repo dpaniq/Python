@@ -1,5 +1,5 @@
 
-1. Text Processing Services
+> 1. Text Processing Services
  * string — Common string operations
  * re — Regular expression operations
  * difflib — Helpers for computing deltas
@@ -8,10 +8,10 @@
  * stringprep — Internet String Preparation
  * readline — GNU readline interface
  * rlcompleter — Completion function for GNU readline
-2. Binary Data Services
+> 2. Binary Data Services
  * struct — Interpret bytes as packed binary data
  * codecs — Codec registry and base classes
-3. Data Types
+> 3. Data Types
  * datetime — Basic date and time types
  * calendar — General calendar-related functions
  * collections — Container datatypes
@@ -25,7 +25,7 @@
  * pprint — Data pretty printer
  * reprlib — Alternate repr() implementation
  * enum — Support for enumerations
-4. Numeric and Mathematical Modules
+> 4. Numeric and Mathematical Modules
  * numbers — Numeric abstract base classes
  * math — Mathematical functions
  * cmath — Mathematical functions for complex numbers
@@ -33,11 +33,11 @@
  * fractions — Rational numbers
  * random — Generate pseudo-random numbers
  * statistics — Mathematical statistics functions
-5. Functional Programming Modules
+> 5. Functional Programming Modules
  * itertools — Functions creating iterators for efficient looping
  * functools — Higher-order functions and operations on callable objects
  * operator — Standard operators as functions
-6. File and Directory Access
+> 6. File and Directory Access
  * pathlib — Object-oriented filesystem paths
  * os.path — Common pathname manipulations
  * fileinput — Iterate over lines from multiple input streams
@@ -49,31 +49,31 @@
  * linecache — Random access to text lines
  * shutil — High-level file operations
  * macpath — Mac OS 9 path manipulation functions
-7. Data Persistence
+> 7. Data Persistence
  * pickle — Python object serialization
  * copyreg — Register pickle support functions
  * shelve — Python object persistence
  * marshal — Internal Python object serialization
  * dbm — Interfaces to Unix “databases”
  * sqlite3 — DB-API 2.0 interface for SQLite databases
-8. Data Compression and Archiving
+> 8. Data Compression and Archiving
  * zlib — Compression compatible with gzip
  * gzip — Support for gzip files
  * bz2 — Support for bzip2 compression
  * lzma — Compression using the LZMA algorithm
  * zipfile — Work with ZIP archives
  * tarfile — Read and write tar archive files
-9. File Formats
+> 9. File Formats
  * csv — CSV File Reading and Writing
  * configparser — Configuration file parser
  * netrc — netrc file processing
  * xdrlib — Encode and decode XDR data
  * plistlib — Generate and parse Mac OS X .plist files
-10. Cryptographic Services
+> 10. Cryptographic Services
  * hashlib — Secure hashes and message digests
  * hmac — Keyed-Hashing for Message Authentication
  * secrets — Generate secure random numbers for managing secrets
-11. Generic Operating System Services
+> 11. Generic Operating System Services
  * os — Miscellaneous operating system interfaces
  * io — Core tools for working with streams
  * time — Time access and conversions
@@ -90,10 +90,10 @@
  * platform — Access to underlying platform’s identifying data
  * errno — Standard errno system symbols
  * ctypes — A foreign function library for Python
-12. Concurrent Execution
+> 12. Concurrent Execution
  * threading — Thread-based parallelism
  * multiprocessing — Process-based parallelism
-13. The concurrent package
+> 13. The concurrent package
  * concurrent.futures — Launching parallel tasks
  * subprocess — Subprocess management
  * sched — Event scheduler
@@ -101,11 +101,11 @@
  * _thread — Low-level threading API
  * _dummy_thread — Drop-in replacement for the _thread module
  * dummy_threading — Drop-in replacement for the threading module
-14. Context Variables
+> 14. Context Variables
   * contextvars — Context Variables
-15. Manual Context Management
+> 15. Manual Context Management
   * asyncio support
-16. Networking and Interprocess Communication
+> 16. Networking and Interprocess Communication
   * asyncio — Asynchronous I/O
   * socket — Low-level networking interface
   * ssl — TLS/SSL wrapper for socket objects
@@ -115,7 +115,7 @@
   * asynchat — Asynchronous socket command/response handler
   * signal — Set handlers for asynchronous events
   * mmap — Memory-mapped file support
-17. Internet Data Handling
+> 17. Internet Data Handling
   * email — An email and MIME handling package
   * json — JSON encoder and decoder
   * mailcap — Mailcap file handling
@@ -126,11 +126,11 @@
   * binascii — Convert between binary and ASCII
   * quopri — Encode and decode MIME quoted-printable data
   * uu — Encode and decode uuencode files
-18. Structured Markup Processing Tools
+> 18. Structured Markup Processing Tools
   * html — HyperText Markup Language support
   * html.parser — Simple HTML and XHTML parser
   * html.entities — Definitions of HTML general entities
-19. XML Processing Modules
+> 19. XML Processing Modules
   * xml.etree.ElementTree — The ElementTree XML API
   * xml.dom — The Document Object Model API
   * xml.dom.minidom — Minimal DOM implementation
@@ -140,7 +140,7 @@
   * xml.sax.saxutils — SAX Utilities
   * xml.sax.xmlreader — Interface for XML parsers
   * xml.parsers.expat — Fast XML parsing using Expat
-20. Internet Protocols and Support
+> 20. Internet Protocols and Support
   * webbrowser — Convenient Web-browser controller
   * cgi — Common Gateway Interface support
   * cgitb — Traceback manager for CGI scripts
@@ -169,7 +169,7 @@
   * xmlrpc.client — XML-RPC client access
   * xmlrpc.server — Basic XML-RPC servers
   * ipaddress — IPv4/IPv6 manipulation library
-21. Multimedia Services
+> 21. Multimedia Services
   * audioop — Manipulate raw audio data
   * aifc — Read and write AIFF and AIFC files
   * sunau — Read and write Sun AU files
@@ -179,10 +179,10 @@
   * imghdr — Determine the type of an image
   * sndhdr — Determine type of sound file
   * ossaudiodev — Access to OSS-compatible audio devices
-22. Internationalization
+> 22. Internationalization
   * gettext — Multilingual internationalization services
   * locale — Internationalization services
-23. Program Frameworks
+> 23. Program Frameworks
   * turtle — Turtle graphics
   * cmd — Support for line-oriented command interpreters
   * shlex — Simple lexical analysis
@@ -192,7 +192,7 @@
   * tkinter.tix — Extension widgets for Tk
   * tkinter.scrolledtext — Scrolled Text Widget
   * IDLE
-24. Development Tools
+> 24. Development Tools
   * typing — Support for type hints
   * pydoc — Documentation generator and online help system
   * doctest — Test interactive Python examples
@@ -203,20 +203,20 @@
   * test — Regression tests package for Python
   * test.support — Utilities for the Python test suite
   * test.support.script_helper — Utilities for the Python execution tests
-25. Debugging and Profiling
+> 25. Debugging and Profiling
   * bdb — Debugger framework
   * faulthandler — Dump the Python traceback
   * pdb — The Python Debugger
-26. The Python Profilers
+> 26. The Python Profilers
   * timeit — Measure execution time of small code snippets
   * trace — Trace or track Python statement execution
   * tracemalloc — Trace memory allocations
-27. Software Packaging and Distribution
+> 27. Software Packaging and Distribution
   * distutils — Building and installing Python modules
   * ensurepip — Bootstrapping the pip installer
   * venv — Creation of virtual environments
   * zipapp — Manage executable Python zip archives
-28. Python Runtime Services
+> 28. Python Runtime Services
   * sys — System-specific parameters and functions
   * sysconfig — Provide access to Python’s configuration information
   * builtins — Built-in objects
@@ -231,16 +231,16 @@
   * gc — Garbage Collector interface
   * inspect — Inspect live objects
   * site — Site-specific configuration hook
-29. Custom Python Interpreters
+> 29. Custom Python Interpreters
   * code — Interpreter base classes
   * codeop — Compile Python code
-30. Importing Modules
+> 30. Importing Modules
   * zipimport — Import modules from Zip archives
   * pkgutil — Package extension utility
   * modulefinder — Find modules used by a script
   * runpy — Locating and executing Python modules
   * importlib — The implementation of import
-31. Python Language Services
+> 31. Python Language Services
   * parser — Access Python parse trees
   * ast — Abstract Syntax Trees
   * symtable — Access to the compiler’s symbol tables
@@ -254,14 +254,14 @@
   * compileall — Byte-compile Python libraries
   * dis — Disassembler for Python bytecode
   * pickletools — Tools for pickle developers
-32. Miscellaneous Services
+> 32. Miscellaneous Services
   * formatter — Generic output formatting
-33. MS Windows Specific Services
+> 33. MS Windows Specific Services
   * msilib — Read and write Microsoft Installer files
   * msvcrt — Useful routines from the MS VC++ runtime
   * winreg — Windows registry access
   * winsound — Sound-playing interface for Windows
-34. Unix Specific Services
+> 34. Unix Specific Services
   * posix — The most common POSIX system calls
   * pwd — The password database
   * spwd — The shadow password database
@@ -275,8 +275,8 @@
   * resource — Resource usage information
   * nis — Interface to Sun’s NIS (Yellow Pages)
   * syslog — Unix syslog library routines
-35. Superseded Modules
+> 35. Superseded Modules
   * optparse — Parser for command line options
   * imp — Access the import internals
-36. Undocumented Modules
+> 36. Undocumented Modules
   * Platform specific modules
