@@ -10,20 +10,20 @@
 
 > Functions
 
-⦁ `abs()` ⦁ `dict()` ⦁ `help()` ⦁ `min()` ⦁ `setattr()` ⦁
-⦁ `all()` ⦁ `dir()` ⦁ `hex()` ⦁ `next()` ⦁ `slice()` ⦁
-`any()` ⦁ `divmod()` ⦁ `id()` ⦁ `object()` ⦁ `sorted()` ⦁
-⦁ `ascii()` ⦁ `enumerate()` ⦁ `input()` ⦁ `oct()` ⦁ `staticmethod()` ⦁
-⦁ `bin()` ⦁ `eval()` ⦁ `int()` ⦁ `open()` ⦁ `str()` ⦁
-⦁ `bool()` ⦁  `exec()` ⦁ ⦁ `isinstance()` ⦁ `ord()` ⦁ `sum()` ⦁
-⦁ `bytearray()` ⦁ `filter(`) ⦁ `issubclass()` ⦁ `pow()` ⦁ `super()` ⦁
-⦁ `bytes()` ⦁ `float()` ⦁ `iter()` ⦁ `print()` `tuple()` ⦁
-⦁ `callable()` ⦁ `property()` ⦁ `format()` ⦁ `len()` ⦁ `type()` ⦁
-⦁ `chr()` ⦁ `frozenset()` ⦁ `list()` ⦁ `range()` ⦁ `vars()` ⦁
-⦁ `classmethod()` ⦁ `getattr()` ⦁ `locals()` ⦁ `repr()` ⦁ `zip()` ⦁
-⦁ `compile()` ⦁ `globals()` ⦁ `map()` ⦁ `reversed()` ⦁ `complex()` ⦁
-⦁ `hasattr()` ⦁ `max()` ⦁ `round()` ⦁ `delattr()` ⦁ `hash()` ⦁
-⦁ `memoryview()` ⦁ `set()` ⦁ `__import__()` ⦁ 
+⦁ `abs()` ⦁ `dict()` ⦁ `help()` ⦁ `min()` ⦁ `setattr()` ⦁ <br>
+⦁ `all()` ⦁ `dir()` ⦁ `hex()` ⦁ `next()` ⦁ `slice()` ⦁<br>
+`any()` ⦁ `divmod()` ⦁ `id()` ⦁ `object()` ⦁ `sorted()` ⦁<br>
+⦁ `ascii()` ⦁ `enumerate()` ⦁ `input()` ⦁ `oct()` ⦁ `staticmethod()` ⦁<br>
+⦁ `bin()` ⦁ `eval()` ⦁ `int()` ⦁ `open()` ⦁ `str()` ⦁<br>
+⦁ `bool()` ⦁  `exec()` ⦁ `isinstance()` ⦁ `ord()` ⦁ `sum()` ⦁<br>
+⦁ `bytearray()` ⦁ `filter(`) ⦁ `issubclass()` ⦁ `pow()` ⦁ `super()` ⦁<br>
+⦁ `bytes()` ⦁ `float()` ⦁ `iter()` ⦁ `print()` `tuple()` ⦁<br>
+⦁ `callable()` ⦁ `property()` ⦁ `format()` ⦁ `len()` ⦁ `type()` ⦁<br>
+⦁ `chr()` ⦁ `frozenset()` ⦁ `list()` ⦁ `range()` ⦁ `vars()` ⦁<br>
+⦁ `classmethod()` ⦁ `getattr()` ⦁ `locals()` ⦁ `repr()` ⦁ `zip()` ⦁<br>
+⦁ `compile()` ⦁ `globals()` ⦁ `map()` ⦁ `reversed()` ⦁ `complex()` ⦁<br>
+⦁ `hasattr()` ⦁ `max()` ⦁ `round()` ⦁ `delattr()` ⦁ `hash()` ⦁<br>
+⦁ `memoryview()` ⦁ `set()` ⦁ `__import__()` ⦁ <br>
 				
 Другие встроенные функции	<br>
 Побитовые операции. Биты и байты<br>
