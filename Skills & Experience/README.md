@@ -1,5 +1,5 @@
 
-# Experience / Опыт
+# Skills & experience / Навыки и опыт
 ## Subjects / Темы:
 
 Simple text - understanding / Прстой тект - понимание
@@ -11,11 +11,6 @@ Simple text - understanding / Прстой тект - понимание
 <!---
 
 -->
-
-
-> Standart Library
-<!---
-
 
 > **3rdParty Libraries / Стороние Библиотеки**:
 <!---
