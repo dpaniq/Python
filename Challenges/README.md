@@ -35,16 +35,16 @@ Site 	  - https://www.site.com/14brother                              	Rank
 > Q - in queue
 
 | Website          | Status    		| Course    				 | Link to Profile				    |
-| :--------------- | :-------- 		| :------------------------------------- | :----------------------------------------------- | 
-| `**SoloLearn      | 	       		|    	     				 | https://www.sololearn.com/Profile/1456634**`      | 
-| 	           | [P][C]    		| Python3 | 
-| 	           | [P][C]    		| CSS |
-| 	           | [P][C]    		| HTML |
-| **Stepik         | 	       		|    	     				 | https://stepik.org/users/29204177**      	    |
-| 	           | [P]       		| Python3 | 
+| :--------------: | :--------:		| :------------------------------------: | :----------------------------------------------: | 
+| **SoloLearn**    | 	       		|    	     				 | **https://www.sololearn.com/Profile/1456634**    | 
+| 	           | `Certificate`	| Python3 | 
+| 	           | `Certificate`    	| CSS |
+| 	           | `Certificate`   	| HTML |
+| **Stepik**       | 	       		|    	     				 | **https://stepik.org/users/29204177**      	    |
+| 	           | Passed    		| Азы Python 3+. Первый шаг | 
 | 	           | [P]       		| Python3 |
 | 	           | [P]       		| Python3 |
-| **Hackerrank     | 	       		|    	     				 | https://www.hackerrank.com/14brother**     	    |
+| **Hackerrank**   | 	      		|    	     				 | **https://www.hackerrank.com/14brother**   	    |
 |	   	   | [N][65/115]        | Language Proficiency: Python |
 |	   	   | [Q]       		| Interview Preparaiton Kit: Python |
 |	   	   | [Q]       		| Problem Solving: Algorithms |
