@@ -30,27 +30,29 @@ Site 	  - https://www.site.com/14brother                              	Rank
 
 > C - mean certificate
 
-> N - course in currently (now) 
+> N - course in currently (now)
 
-| Website          | Status    | Course    					 | Link to Profile				    |
-| :--------------: | :-------: |---------------------------------------------:  | :----------------------------------------------: | 
-| SoloLearn        | 	       |    	     					 | https://www.sololearn.com/Profile/1456634        | 
-| 	           | [P][C]    | Python3             										    | 
-| 	           | [P][C]    | CSS             							                            |
-| 	           | [P][C]    | HTML             							                     	    |
-| Stepik           | 	       |    	     					 | https://stepik.org/users/29204177      	    |
-| 	           | [P]       | Python3             										    | 
-| 	           | [P]       | Python3             							                            |
-| 	           | [P]       | Python3             							                     	    |
-| Hackerrank       | 	       |    	     					 | https://www.hackerrank.com/14brother     	    |
-|	   	   |           | Language Proficiency: Python                                                        |
-|	   	   |           | Interview Preparaiton Kit: Python                                                        |
-|	   	   |           | Problem Solving: Algorithms                                                    |
-|	   	   |           | Problem Solving: Data Structures                                                       |
-|	   	   |           | Problem Solving: Mathematics                                                       |
-|	   	   |           | Specialied Skills: SQL                                                      |
-|	   	   |           | Specialied Skills: Databases                                                        |
-|	   	   |           | Specialied Skills: Regex                                                       |
-|	   	   |           | Learn to code in 30 days                                                        |
-|	   	   |           | 10 Days of statistics                                                        |
+> Q - in queue
+
+| Website          | Status    		| Course    				 | Link to Profile				    |
+| :--------------- | :-------- 		| :------------------------------------- | :----------------------------------------------- | 
+| `**SoloLearn      | 	       		|    	     				 | https://www.sololearn.com/Profile/1456634**`      | 
+| 	           | [P][C]    		| Python3 | 
+| 	           | [P][C]    		| CSS |
+| 	           | [P][C]    		| HTML |
+| **Stepik         | 	       		|    	     				 | https://stepik.org/users/29204177**      	    |
+| 	           | [P]       		| Python3 | 
+| 	           | [P]       		| Python3 |
+| 	           | [P]       		| Python3 |
+| **Hackerrank     | 	       		|    	     				 | https://www.hackerrank.com/14brother**     	    |
+|	   	   | [N][65/115]        | Language Proficiency: Python |
+|	   	   | [Q]       		| Interview Preparaiton Kit: Python |
+|	   	   | [Q]       		| Problem Solving: Algorithms |
+|	   	   | [Q]       		| Problem Solving: Data Structures |
+|	   	   | [Q]       		| Problem Solving: Mathematics |
+|	   	   | [Q]                | Specialied Skills: SQL |
+|	   	   | [Q]      		| Specialied Skills: Databases |
+|	   	   | [Q]      		| Specialied Skills: Regex |
+|	   	   | [Q]       		| Learn to code in 30 days |
+|	   	   | [Q]       		| 10 Days of statistics |
 
