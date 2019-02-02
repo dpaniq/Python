@@ -9,7 +9,7 @@
 | 	           | `Certificate`   	| HTML |
 |      		   |    		|    					 | 						    |
 | **Stepik**       | 	       		|    	     				 | **https://stepik.org/users/29204177**      	    |
-| 	           | `Completed`    	| Азы Python 3+ Первый шаг (Моисеев И.) | 
+| 	           | `Completed`    	| Азы Python 3+ Первый шаг <br>(Моисеев И.) | 
 | 	           | `Completed`       	| Introduction to Python (Bartucz J.) |
 | 	           | `Completed`      	| 6 Introduction to Python (Grote R.) |
 |      		   |    		|    					 | 						    |
