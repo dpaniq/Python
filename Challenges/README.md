@@ -25,6 +25,7 @@ More options
 ---
 Site 	  - https://www.site.com/14brother                              	Rank
 ---
+`Certificate` `Completed` `In currently` `In queue`
 
 > P - mean passed course
 
@@ -34,6 +35,7 @@ Site 	  - https://www.site.com/14brother                              	Rank
 
 > Q - in queue
 
+|       	   |    		|    					 | 						    |
 | Website          | Status    		| Course    				 | Link to Profile				    |
 | :--------------: | :--------:		| :------------------------------------: | :----------------------------------------------: | 
 | **SoloLearn**    | 	       		|    	     				 | **https://www.sololearn.com/Profile/1456634**    | 
@@ -41,9 +43,9 @@ Site 	  - https://www.site.com/14brother                              	Rank
 | 	           | `Certificate`    	| CSS |
 | 	           | `Certificate`   	| HTML |
 | **Stepik**       | 	       		|    	     				 | **https://stepik.org/users/29204177**      	    |
-| 	           | Passed    		| Азы Python 3+. Первый шаг | 
-| 	           | [P]       		| Python3 |
-| 	           | [P]       		| Python3 |
+| 	           | `Completed`    	| Азы Python 3+. Первый шаг (Иван Моисеев) | 
+| 	           | `Completed`       	| Introduction to Python (John Bartucz) |
+| 	           | `Completed`      	| 6 Introduction to Python (Robert to python |
 | **Hackerrank**   | 	      		|    	     				 | **https://www.hackerrank.com/14brother**   	    |
 |	   	   | [N][65/115]        | Language Proficiency: Python |
 |	   	   | [Q]       		| Interview Preparaiton Kit: Python |
