@@ -1,16 +1,16 @@
-###Direction in development
+###Direction in development###
 
->Genreal:
+Genreal:
 
-Base things
+1.Base things
 ---
 >Word processing / Обработка текста:
 
 Regular Expression / Регулярные выражения	
----		
+---
 >Graphics / Графика:
 
-wx
+WX
 Turtle
 Qt
 
