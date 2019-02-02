@@ -26,12 +26,15 @@ More options
 Site 	  - https://www.site.com/14brother                              	Rank
 ---
 
-> P - mean passed course |  C - mean certificate | 
+> P - mean passed course
 
-| Website          |  Link to Profile 			         |	  Rank       |	Verification         |
-| :--------------: | :--------------------------------------:    | :------------:    | :-------------------: |
-| SoloLearn        | https://www.sololearn.com/Profile/1456634   | 	 	     | G+                    |
-| 		   | Status     | 								     Courses |
-| 	           | [Pass] Python3            | asdasdasd       | asda | asdasd       |
-|        	   | [Pass] Python3            | asdasdasd       | asda | asdasd       |
-|        	   | [Pass] Python3            | asdasdasd       | asda | asdasd       |
+> C - mean certificate
+
+> N - course in currently (now) 
+
+| Website          |  Link to Profile 			     			     | Rank                  |	Verification         |
+| :--------------: | :------------------------------------------------------------:  | :----------------:    | :-------------------: |
+| SoloLearn        | https://www.sololearn.com/Profile/1456634   		     | 	 	             | G+                    |
+| 	           | [P][C]    | Python3             							                             |
+| 	           | [P][C]    | Python3             							                             |
+| 	           | [P][C]    | Python3             							                             |
