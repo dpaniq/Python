@@ -32,9 +32,25 @@ Site 	  - https://www.site.com/14brother                              	Rank
 
 > N - course in currently (now) 
 
-| Website          |  Link to Profile 			     			     | Rank                  |	Verification         |
-| :--------------: | :------------------------------------------------------------:  | :----------------:    | :-------------------: |
-| SoloLearn        | https://www.sololearn.com/Profile/1456634   		     | 	 	             | G+                    |
-| 	           | [P][C]    | Python3             							                             |
-| 	           | [P][C]    | Python3             							                             |
-| 	           | [P][C]    | Python3             							                             |
+| Website          | Status    | Course    					 | Link to Profile				    |
+| :--------------: | :-------: |:---------------------------------------------:  | :----------------------------------------------: | 
+| SoloLearn        | 	       |    	     					 | https://www.sololearn.com/Profile/1456634        | 
+| 	           | [P][C]    | Python3             										    | 
+| 	           | [P][C]    | CSS             							                            |
+| 	           | [P][C]    | HTML             							                     	    |
+| Stepik           | 	       |    	     					 | https://stepik.org/users/29204177      	    |
+| 	           | [P]       | Python3             										    | 
+| 	           | [P]       | Python3             							                            |
+| 	           | [P]       | Python3             							                     	    |
+| Hackerrank       | 	       |    	     					 | https://www.hackerrank.com/14brother     	    |
+|	   	   |           | Language Proficiency: Python                                                        |
+|	   	   |           | Interview Preparaiton Kit: Python                                                        |
+|	   	   |           | Problem Solving: Algorithms                                                    |
+|	   	   |           | Problem Solving: Data Structures                                                       |
+|	   	   |           | Problem Solving: Mathematics                                                       |
+|	   	   |           | Specialied Skills: SQL                                                      |
+|	   	   |           | Specialied Skills: Databases                                                        |
+|	   	   |           | Specialied Skills: Regex                                                       |
+|	   	   |           | Learn to code in 30 days                                                        |
+|	   	   |           | 10 Days of statistics                                                        |
+
