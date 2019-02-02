@@ -12,7 +12,7 @@
 
 ⦁ `abs()` ⦁ `dict()` ⦁ `help()` ⦁ `min()` ⦁ `setattr()` ⦁ <br>
 ⦁ `all()` ⦁ `dir()` ⦁ `hex()` ⦁ `next()` ⦁ `slice()` ⦁<br>
-`any()` ⦁ `divmod()` ⦁ `id()` ⦁ `object()` ⦁ `sorted()` ⦁<br>
+⦁ `any()` ⦁ `divmod()` ⦁ `id()` ⦁ `object()` ⦁ `sorted()` ⦁<br>
 ⦁ `ascii()` ⦁ `enumerate()` ⦁ `input()` ⦁ `oct()` ⦁ `staticmethod()` ⦁<br>
 ⦁ `bin()` ⦁ `eval()` ⦁ `int()` ⦁ `open()` ⦁ `str()` ⦁<br>
 ⦁ `bool()` ⦁  `exec()` ⦁ `isinstance()` ⦁ `ord()` ⦁ `sum()` ⦁<br>
@@ -25,7 +25,12 @@
 ⦁ `hasattr()` ⦁ `max()` ⦁ `round()` ⦁ `delattr()` ⦁ `hash()` ⦁<br>
 ⦁ `memoryview()` ⦁ `set()` ⦁ `__import__()` ⦁ <br>
 				
-Другие встроенные функции	<br>
+> Analysis
+
+ ⦁ `type()` ⦁ `dir()` ⦁ `id()` ⦁ `getattr()` ⦁  `hasattr()` ⦁ <br>
+ ⦁ `globals()` ⦁ `locals()` ⦁ `callable()`  ⦁  `object.__dict__` ⦁ <br>
+
+
 Побитовые операции. Биты и байты<br>
 * Байты	8
 Системы счисления<br>
