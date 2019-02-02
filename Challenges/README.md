@@ -25,7 +25,7 @@ More options
 ---
 Site 	  - https://www.site.com/14brother                              	Rank
 ---
-`Certificate` `Completed` `In currently` `In queue`
+`Certificate` `Completed` `In` `In queue`
 
 > P - mean passed course
 
@@ -35,26 +35,27 @@ Site 	  - https://www.site.com/14brother                              	Rank
 
 > Q - in queue
 
-|       	   |    		|    					 | 						    |
+
 | Website          | Status    		| Course    				 | Link to Profile				    |
 | :--------------: | :--------:		| :------------------------------------: | :----------------------------------------------: | 
 | **SoloLearn**    | 	       		|    	     				 | **https://www.sololearn.com/Profile/1456634**    | 
 | 	           | `Certificate`	| Python3 | 
 | 	           | `Certificate`    	| CSS |
 | 	           | `Certificate`   	| HTML |
+|      		   |    		|    					 | 						    |
 | **Stepik**       | 	       		|    	     				 | **https://stepik.org/users/29204177**      	    |
-| 	           | `Completed`    	| Азы Python 3+. Первый шаг (Иван Моисеев) | 
-| 	           | `Completed`       	| Introduction to Python (John Bartucz) |
-| 	           | `Completed`      	| 6 Introduction to Python (Robert to python |
+| 	           | `Completed`    	| Азы Python 3+ Первый шаг (Моисеев И.) | 
+| 	           | `Completed`       	| Introduction to Python (Bartucz J.) |
+| 	           | `Completed`      	| 6 Introduction to Python (Grote R.) |
+|      		   |    		|    					 | 						    |
 | **Hackerrank**   | 	      		|    	     				 | **https://www.hackerrank.com/14brother**   	    |
-|	   	   | [N][65/115]        | Language Proficiency: Python |
-|	   	   | [Q]       		| Interview Preparaiton Kit: Python |
-|	   	   | [Q]       		| Problem Solving: Algorithms |
-|	   	   | [Q]       		| Problem Solving: Data Structures |
-|	   	   | [Q]       		| Problem Solving: Mathematics |
-|	   	   | [Q]                | Specialied Skills: SQL |
-|	   	   | [Q]      		| Specialied Skills: Databases |
-|	   	   | [Q]      		| Specialied Skills: Regex |
-|	   	   | [Q]       		| Learn to code in 30 days |
-|	   	   | [Q]       		| 10 Days of statistics |
-
+|	   	   | `In``[65/115]`     | Language Proficiency: Python |
+|	   	   | `In queue`      	| Interview Preparaiton Kit: Python |
+|	   	   | `In queue`       	| Problem Solving: Algorithms |
+|	   	   | `In queue`      	| Problem Solving: Data Structures |
+|	   	   | `In queue`       	| Problem Solving: Mathematics |
+|	   	   | `In queue`         | Specialied Skills: SQL |
+|	   	   | `In queue`      	| Specialied Skills: Databases |
+|	   	   | `In queue`      	| Specialied Skills: Regex |
+|	   	   | `In queue`       	| Learn to code in 30 days |
+|	   	   | `In queue`       	| 10 Days of statistics |
