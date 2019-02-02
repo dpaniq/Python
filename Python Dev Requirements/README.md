@@ -1,53 +1,25 @@
 
-# I fit requirements requirements / Я соответствую требованиям
+# Experience / Опыт
 ## Subjects / Темы:
 
+Simple text - understanding / Прстой тект - понимание
+`Highlighting` - used / `Подсвеченное` - использовал <br>
+**`Highlighting-bold`** - strong knowledge. / **`Подсвеченное-жирным`** - уверенные знания.
 
-<!---
-⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  
--->
 
-`Highlighting` - applied in the works.
-`Подсвеченное` - применял в работе.
+> General
 
-**`Highlighting-bold`** - strong knowledge.
-**`Подсвеченное-жирным`** -  уверенные знания.
+> Standart Library
+
 
 > **Libraries / Библиотеки**:
-
 <!---
-Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Kivy ⦁  ⦁ Nltk ⦁ OpenCV ⦁ Pymorphy2 ⦁ Pandas ⦁ PyQt ⦁ SageMath ⦁ SciPy ⦁ Scrapy ⦁ Seaborn ⦁ Snowballstemmer  ⦁	SymPy ⦁	WinPython
+Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Kivy ⦁  Nltk ⦁ OpenCV ⦁ Pymorphy2 ⦁ Pandas ⦁ PyQt ⦁ SageMath ⦁ SciPy ⦁ Scrapy ⦁ Seaborn ⦁ Snowballstemmer  ⦁	SymPy ⦁	WinPython ⦁	Tensorflow
 -->
-
- ⦁ `Matplotlib` ⦁ `NumPy` ⦁ `Python Imaging Library` ⦁ `PyPI` ⦁ `Standart Library` ⦁ `Tkinter` ⦁ 
-
----
-
-
-// Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Kivy ⦁ `Matplotlib` ⦁ Nltk ⦁ `NumPy` ⦁ OpenCV ⦁ Pymorphy2 ⦁ Pandas ⦁	`PyPI` ⦁ PyQt ⦁ `Python Imaging Library` ⦁ SageMath ⦁ SciPy ⦁ Scrapy ⦁ Seaborn ⦁ Snowballstemmer ⦁ `Standart Library` ⦁	SymPy ⦁	`Tkinter` ⦁	WinPython
-
->	**HTML5 + CSS**
-
+ ⦁ `Matplotlib` ⦁ `NumPy` ⦁ `Python Imaging Library` ⦁ `PyPI` ⦁ `Tkinter` ⦁ 
+ 
 <!---
-your comment goes here
-and here
--->
-
-⦁	SQL
-⦁	JS/JQUERY
-⦁	Go
-⦁	Java
-⦁	Node.js
-⦁	Linux
-⦁	React.js
-
----
-
-<!---
-your comment goes here
-and here
--->
-
+⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Фреймворки:
 ⦁	DJANGO 2+
 ⦁	Kivy
@@ -67,35 +39,40 @@ and here
 ⦁	CPython
 ⦁	QTDesinger
 ⦁	Dynamo + Revit
+-->
+> Frameworks
+
+
+
 
 <!---
-your comment goes here
-and here
--->
-
-<!---
-your comment goes here
-and here
--->
-
+⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Подходы:
 ⦁	ООП
 ⦁	SOLID
 ⦁	DRY
+-->
+
+<!---
+⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Базы данных:
 ⦁	PostgreSQL
+Aurora
 ⦁	Redis
 ⦁	NoSQL
 ⦁	MongoDB
 ⦁	FireBird
 ⦁	Elasticsearch
 ⦁	memcached
-⦁	
-<!---
-your comment goes here
-and here
+⦁	БД:
+⦁	Настройки репликации на MySQL / PostgreSQL
+⦁	Создания системы резервных копий БД
+⦁	Сложных SQL-запросов c оптимизацией производительности
+⦁	Построения реляционных моделей данных
 -->
 
+<!---
+⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Функциональная часть:
 ⦁	Reg – регулярные выражения
 ⦁	GIT LAb
@@ -115,6 +92,7 @@ and here
 ⦁	Разработка и внедрение CI / CD на TeamCity
 ⦁	Автоматизации тестирования
 ⦁	AWS и TDD
+RabbitMQ, Kafka, Docker, Amazon Web Services
 ⦁	Highload
 ⦁	Nginx
 ⦁	Supervisor
@@ -128,16 +106,14 @@ and here
 ⦁	Разработка высоконагруженных API;
 ⦁	Aiohttp/Multithreading
 ⦁	Google Cloud Platform
-⦁	Tensorflow
 ⦁	Hadoop
 ⦁	Spark
 ⦁	ETL (Dataiku, Cask, Pentaho)
-
-<!---
-your comment goes here
-and here
 -->
 
+---
+
+<!---
 Наука:
 ⦁	Численные методы
 ⦁	Линейная алгебра
@@ -146,11 +122,13 @@ and here
 ⦁	Теория графов
 ⦁	Марковские модели
 ⦁	Методы численного анализа
-
-<!---
-your comment goes here
-and here
 -->
+
+---
+
+> Algorithms
+⦁	`Fibonacci sequence` ⦁	
+<!---
 
 Алгоритмы:
 ⦁	Sorting Algorithms 
@@ -163,7 +141,6 @@ a.	- Liear Search
 b.	- Binary Search
 ⦁	String Reverse Algorithm
 ⦁	Hashing algorithm (Caesar cipher)
-⦁	Fibonacci sequence
 ⦁	Factorial Algorithm
 ⦁	Разработка, настройка и оптимизация алгоритмов обработки (распознавания, интерпретации) изображений
 ⦁	Знание классических алгоритмов и шаблонов проектирования
@@ -176,12 +153,29 @@ b.	- Binary Search
 ⦁	Data Mining
 ⦁	Нейронные сети
 ⦁	
+-->
+
+
 
 <!---
 your comment goes here
 and here
 -->
 
+
+
+<!---
+your comment goes here
+and here
+-->
+
+
+
+Тип архитектуры
+⦁	REST / RESTful
+⦁	API: Разработка API методов
+
+<!---
 Понимание:
 ⦁	Общие:
 ⦁	Корпоративных программных технологий и методов
@@ -207,82 +201,62 @@ and here
 ⦁	Рефакторинг текущей кодовой базы
 ⦁	Развертка репозитория на новом сервере
 ⦁	Методов классификации/регрессии/кластеризации
-
-<!---
-your comment goes here
-and here
 -->
 
-⦁	БД:
-⦁	Настройки репликации на MySQL / PostgreSQL
-⦁	Создания системы резервных копий БД
-⦁	Сложных SQL-запросов c оптимизацией производительности
-⦁	Построения реляционных моделей данных
-Тип архитектуры
-⦁	REST
-⦁	API: Разработка API методов
+---
 
 <!---
-your comment goes here
-and here
--->
-
-Коллективное окружение/Методологии
+Methodologies / Методологии
 ⦁	SCRUM
 ⦁	Agile
 ⦁	RUP
-
-<!---
-your comment goes here
-and here
+Kanban
 -->
 
-Сайты с задачами
-⦁	Stepik.org
-⦁	SoloLearn
-⦁	PythonTutor
-⦁	HackerRank
-⦁	PythonChallange
-⦁	SoloLearn
-⦁	Timus Online Judge
-⦁	ProgHub(beta)
-⦁	Check.io
-⦁	ACMP.RU
-⦁	Project Euler
-⦁	CodeCombat
-⦁	QuizFul
-⦁	CoderByte
-⦁	Operation Go
-⦁	SPOJ
-⦁	GeeksforGeeks
-⦁	CodeChef
-⦁	CodeWars
-⦁	CodeFights
-⦁	Empire of Code
-⦁	CodinGame
-⦁	TopCoder
-⦁	LeetCode
-⦁	Codeforces
-⦁	Kaggle
 
 <!---
-your comment goes here
-and here
--->
+⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
+⦁	PythonTutor ⦁	PythonChallange ⦁	SoloLearn ⦁	Timus Online Judge ⦁	ProgHub(beta) ⦁	Check.io ⦁	ACMP.RU ⦁	Project Euler ⦁	CodeCombat
+⦁	QuizFul ⦁	CoderByte ⦁	Operation Go ⦁	SPOJ ⦁	GeeksforGeeks ⦁	CodeChef ⦁	CodeWars ⦁	CodeFights ⦁	Empire of Code ⦁	CodinGame ⦁	TopCoder
+⦁	LeetCode ⦁	Codeforces ⦁	Kaggle -->
+> Challenges
 
+ ⦁ `Hackerrank.com` ⦁ **`SoloLearn.com`** ⦁ `Stepik.org` 
+
+<!---
+⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Облачное хранилище
-⦁	Redshift
-⦁	Azure Data Warehouse
-⦁	Lake
-⦁	HDInsight
-
-<!---
-your comment goes here
-and here
+⦁	Redshift ⦁	Azure Data Warehouse ⦁	Lake ⦁	HDInsight
 -->
 
-Еще!
-⦁	Знание английского языка на уровне чтения технической литературы
+
+> English
+⦁ **`(A1)Basic User`** ⦁ **`(A1)Survival Level — Beginner и Elementary`** ⦁ **`(A2)Waystage — Pre-Intermediate`** ⦁ **`(B)Independent User`** ⦁ `(B1)Threshold — Intermediate` ⦁  ⦁  ⦁  ⦁ 
+<!---
+⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
+B2 — Пороговый продвинутый уровень (Vantage — Upper-Intermediate)
+C — Свободное владение (Proficient User);
+C1 — Уровень профессионального владения (Effective Operational Proficiency — Advanced)
+C2 — Уровень владения в совершенстве (Mastery — Proficiency)
+-->
+
+<!---
+⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
+> Web
+HTTP HTTPS SSH ClientServer
+-->
+
+> **Another Language**
+
+⦁ **`HTML/HTML5`** ⦁ **`CSS`** ⦁ 
+
+<!---
+Another Language
+⦁	JS/JQUERY ⦁	Go ⦁	Java ⦁	Node.js ⦁	Linux ⦁	React.js
+-->
+
+<!---
+⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 ⦁	Совместные проекты
 ⦁	Фриланс
 ⦁	Собственные разработки
@@ -292,60 +266,4 @@ and here
 ⦁	Галерея графического дизайна
 ⦁	Галерея приложений
 ⦁	Галерея версток + ссылка
-
-What is required for this position?
-Knowledge of Python or Go programming language and willingness to learn the other one.Understanding of unit testing principles, at least basic practical Experience with unit testing
-Understanding of development processes
-Ability to use English on a daily basis (reasonable spoken)
-Desire to learn new technologies
-What are some desired (not required) skills?
-Experience with RabbitMQ, Kafka, Docker, Amazon Web Services
-Experience with React, JavaScript, HTML, CSS
-Experience with Linux
-Experience with some relational and non-relational databases (MySQL, Aurora, MongoDB, …)
-
-Required:
-
-Applicant MUST have two solid years of Django application development.
-Applicant MUST have solid knowledge of Python.
-Solid knowledge of the principles of class-based object-oriented programming.
-Solid knowledge of standard web technology (HTTP, HTTPS, HTML5, client/server model)
-Two years of issue management via a ticketing system (JIRA, Trac, etc.).
-Two years use of software control management.
-Solid communication skills.
-Preferred:
-
-Experience with git and the Gitflow workflow.
-Experience reading SQL.
-Experience using RDMS.
-Experience with continuous integration/continuous deployment environment.
-Experience with automated testing.
-JavaScript development beyond jQuery.
-
-Work collaboratively with Development and Data Science teams to resolve client issues
-Work with clients to ensure our product delivers value to their users
-Work collaboratively with development and data science teams to add features and scalable tools using primarily Python and ECMAScript 2018
-Participate in design meetings to ensure the product meets business requirements
-Participate in agile/Kanban practices on a daily basis
-Comply with change management policies to ensure data integrity and system stability
-Requirements
-BS in Computer Science/Engineering. Otherwise, a BS in a STEM field with 2+ years of development experience
-Ability to understand and discuss quantitative subjects
-Working knowledge of current Linux Distribution (Ubuntu or Debian preferred)
-1+ Years of experience with Python (version 3 preferred)
-1+ Years of experience with SQL (PostgreSQL preferred)
-1+ Years of experience with a Javascript dialect (ECMAScript 2018 preferred)
-Interest in owning projects from end-to-end
-Interest in maintaining and deploying a Software-as-a-Service product
-Knowledge of REST APIs
-Interest in Agile/Kanban Methodologies
-BS in Computer Science/Engineering. Otherwise, a BS in a STEM field with 2+ years of development experience
-Ability to understand and discuss quantitative subjects
-Working knowledge of current Linux Distribution (Ubuntu or Debian preferred)
-1+ Years of experience with Python (version 3 preferred)
-1+ Years of experience with SQL (PostgreSQL preferred)
-1+ Years of experience with a Javascript dialect (ECMAScript 2018 preferred)
-Interest in owning projects from end-to-end
-Interest in maintaining and deploying a Software-as-a-Service product
-Knowledge of REST APIs
-Interest in Agile/Kanban Methodologies
+-->
