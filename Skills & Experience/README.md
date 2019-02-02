@@ -3,8 +3,10 @@
 ## Subjects / Темы:
 
 Simple text - understanding / Прстой тект - понимание
-`Highlighting` - used / `Подсвеченное` - использовал <br>
-**`Highlighting-bold`** - strong knowledge. / **`Подсвеченное-жирным`** - уверенные знания.
+`Highlighting` - used
+`Подсвеченное` - использовал
+**`Highlighting-bold`** - strong knowledge
+**`Подсвеченное-жирным`** - уверенные знания
 
 
 > General
