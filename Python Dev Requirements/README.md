@@ -212,6 +212,17 @@ b.	- Binary Search
 ⦁	Галерея приложений
 ⦁	Галерея версток + ссылка
 
+What is required for this position?
+Knowledge of Python or Go programming language and willingness to learn the other one.Understanding of unit testing principles, at least basic practical Experience with unit testing
+Understanding of development processes
+Ability to use English on a daily basis (reasonable spoken)
+Desire to learn new technologies
+What are some desired (not required) skills?
+Experience with RabbitMQ, Kafka, Docker, Amazon Web Services
+Experience with React, JavaScript, HTML, CSS
+Experience with Linux
+Experience with some relational and non-relational databases (MySQL, Aurora, MongoDB, …)
+
 Required:
 
 Applicant MUST have two solid years of Django application development.
