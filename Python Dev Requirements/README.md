@@ -1,12 +1,14 @@
 
-Developer requirements / Требования к кандидату:
+# Developer requirements / Требования к кандидату:
+## Subjects / Темы:
+
 `Highlighting` - applied in the works.
 `Подсвеченное` - применял в работе.
 
 **`Highlighting`** - strong knowledge.
 **`Подсвеченное`** -  уверенные знания.
 
-# Subjects / Темы:
+
 
 ### Programming Language
 > **Python**:
