@@ -8,7 +8,7 @@
 
 > Regular Expression / Регулярные выражения	
 ---
-### 3. Graphics / Графика:
+### 3. ~~Graphics / Графика:~~
 
 >WX
 
@@ -17,7 +17,7 @@
 >Qt
 
 ---
-### 4. Web / Сайт:
+### ~~4. Web / Сайт:~~
 
 > Parser:
 * XML
@@ -28,7 +28,7 @@
 
 > Django
 ---
-### 5. Applications / Приложение:
+### 5. ~~Applications / Приложение:~~
 
 > Consoles / Консольная
 
@@ -37,7 +37,7 @@
 > Mobile / Мобильное
 	
 ---		
-### 6. Multimedia / Мультимедия:
+### 6. ~~Multimedia / Мультимедия:~~
 
 > 	Image / Изображения
 
@@ -45,7 +45,7 @@
 
 >	Music / Музыка
 ---
-### 7. Maths / Математика:
+### 7. ~~Maths / Математика:~~
 
 > Counts (Графы)
 
@@ -56,20 +56,20 @@
 > Logic algebra / Алгебра логики
 	
 ---
-### 8. Computer science / Информатика:
+### 8. ~~Computer science / Информатика:~~
 ---
-### 9. Data Science / Наука данных:
+### 9. ~~Data Science / Наука данных:~~
 > Statistic / Статистика
 ---
-### 10. Machine Learning / Машинное обучение:
+### 10. ~~Machine Learning / Машинное обучение:~~
 ---
-### 11. Big Data / Большие данные
+### 11. ~~Big Data / Большие данные~~
 ---
-### 12. Artificial Intelligence / Искусственный интеллект
+### 12. ~~Artificial Intelligence / Искусственный интеллект~~
 ---
-### 13. Databases / Базы данных
+### 13. ~~Databases / Базы данных~~
 ---
 ### 14. Object Oriented Programming / ООП
 ---
-### 15. Testing / Тестирование
+### 15. ~~Testing / Тестирование~~
 ---
