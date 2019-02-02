@@ -3,8 +3,8 @@
 -----------------------------------------
 Direction in development
 
->Genreal 
-	Base things
+>Genreal
+Base things
 
 Word processing / Обработка текста
 	Regular Expression / Регулярные выражения	
