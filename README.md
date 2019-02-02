@@ -49,11 +49,11 @@
 
 > Counts (Графы)
 
-> Linear graphs / Линейная графика)
+> Linear graphs / Линейная графика
 	
-> Combinatorics / Комбинаторика)
+> Combinatorics / Комбинаторика
 	
-> Logic algebra / Алгебра логики)
+> Logic algebra / Алгебра логики
 	
 ---
 ### 8. Computer science / Информатика:
