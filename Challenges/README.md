@@ -1,5 +1,5 @@
 
-`Certificate` `Completed` `In` `In queue`
+`Certificate` `Completed In` `In queue`
 
 | Website          | Status    	   | Course    				                            | Link to Profile				                           |
 | :--------------: | :-----------: | :------------------------------------------: | :----------------------------------------------: | 
