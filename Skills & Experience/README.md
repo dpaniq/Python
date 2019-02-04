@@ -202,7 +202,7 @@ Methodologies / Методологии
 ⦁   Kanban
 -->
 
-> **[Challenges](https://github.com/dpaniq/Python/tree/master/Challenges)**
+> **[Challenges](https://github.com/dpaniq/Python/tree/master/Skills%20%26%20Experience/Challenges)**
 
 ⦁ `Hackerrank.com` ⦁ `SoloLearn.com` ⦁ `Stepik.org` 
 <!---
