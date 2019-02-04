@@ -3,9 +3,9 @@
 ## Subjects / Темы:
 
 
-Simple text - understanding<br>
-`Highlighting` - practiced<br>
-**`Highlighting-bold`** - strong knowledge<br>
+      Simple text 	      - understanding<br>
+	 `Highlighting`       - practiced<br>
+**`Highlighting - bold`** - strong knowledge<br>
 
 ---
 
