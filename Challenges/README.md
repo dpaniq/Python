@@ -14,6 +14,7 @@
 | 	               | `Completed`   | Азы Python 3+ Первый шаг <br>(Моисеев Иван) | 
 | 	               | `Completed`   | Introduction to Python <br>(Bartucz John) |
 | 	               | `Completed`   | 6 Introduction to Python <br>(Grote Robert) |
+| 	               | `Completed`   | Learning Python with ITutor <br>Школа ITutor Василий Данилин | [Link](https://stepik.org/course/1304)
 
 |      		       |    		   |    	     				                  | 						                         |
 | **Hackerrank**   | 	      	   |    	     				                  | **https://www.hackerrank.com/14brother**   	     |
