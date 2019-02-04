@@ -1,10 +1,12 @@
 
 # Skills & experience / Навыки и опыт
 ## Subjects / Темы:
----
+
+
 Simple text - understanding<br>
 `Highlighting` - used<br>
 **`Highlighting-bold`** - strong knowledge<br>
+
 ---
 
 > **3rdParty Libraries / Стороние Библиотеки**:
@@ -12,7 +14,10 @@ Simple text - understanding<br>
 Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Kivy ⦁  Nltk ⦁ OpenCV ⦁ Pymorphy2 ⦁ Pandas ⦁ PyQt ⦁ SageMath ⦁ SciPy ⦁ Scrapy ⦁ Seaborn ⦁ Snowballstemmer  ⦁	SymPy ⦁	WinPython ⦁	Tensorflow
 -->
  ⦁ `Matplotlib` ⦁ `NumPy` ⦁ `Python Imaging Library` ⦁ `PyPI` ⦁ `Tkinter` ⦁ 
+ 
 ---
+
+
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Фреймворки:
