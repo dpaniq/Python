@@ -1,24 +1,18 @@
 
 # Skills & experience / Навыки и опыт
 ## Subjects / Темы:
-
+---
 Simple text - understanding<br>
 `Highlighting` - used<br>
 **`Highlighting-bold`** - strong knowledge<br>
-
-
-
-> General
-<!---
-
--->
+---
 
 > **3rdParty Libraries / Стороние Библиотеки**:
 <!---
 Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Kivy ⦁  Nltk ⦁ OpenCV ⦁ Pymorphy2 ⦁ Pandas ⦁ PyQt ⦁ SageMath ⦁ SciPy ⦁ Scrapy ⦁ Seaborn ⦁ Snowballstemmer  ⦁	SymPy ⦁	WinPython ⦁	Tensorflow
 -->
  ⦁ `Matplotlib` ⦁ `NumPy` ⦁ `Python Imaging Library` ⦁ `PyPI` ⦁ `Tkinter` ⦁ 
- 
+---
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Фреймворки:
@@ -217,7 +211,9 @@ Methodologies / Методологии
 ⦁	Redshift ⦁	Azure Data Warehouse ⦁	Lake ⦁	HDInsight
 -->
 
+---
 > English
+
 ⦁ **`(A1)Basic User`** ⦁ **`(A1)Survival Level — Beginner и Elementary`** ⦁ **`(A2)Waystage — Pre-Intermediate`** ⦁ **`(B)Independent User`** ⦁ `(B1)Threshold — Intermediate` ⦁  ⦁  ⦁  ⦁ 
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
@@ -231,7 +227,7 @@ C2 — Уровень владения в совершенстве (Mastery — 
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 > ⦁ Web ⦁ HTTP ⦁ HTTPS ⦁ SSH ⦁ ClientServer ⦁ WEB STACK ⦁ 
 -->
-
+---
 > **Another Language**
 
 ⦁ **`HTML/HTML5`** ⦁ **`CSS`** ⦁ 
