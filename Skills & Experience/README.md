@@ -5,9 +5,8 @@
 
 >Simple text 	      - understanding<br>
 >`Highlighting`       - practiced<br>
->**`Highlighting - bold`** - strong knowledge<br>
 
-> **3rd-party libraries:
+> **3rd-party libraries**:
 <!---
 Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Kivy ⦁  Nltk ⦁ OpenCV ⦁ Pymorphy2 ⦁ Pandas ⦁ PyQt ⦁ SageMath ⦁ SciPy ⦁ Scrapy ⦁ Seaborn ⦁ Snowballstemmer  ⦁	SymPy ⦁	WinPython ⦁	Tensorflow
 -->
@@ -15,7 +14,7 @@ Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Ki
  
 ---
 
-> Frameworks:
+> **Frameworks**:
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Фреймворки:
@@ -26,7 +25,7 @@ Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Ki
 
 ---
 
-> Programming principle:
+> **Programming principle**:
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 
@@ -38,7 +37,7 @@ Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Ki
 
 ---
 
-> Databases
+> **Databases**
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 ⦁	PostgreSQL
@@ -55,7 +54,7 @@ Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Ki
 ⦁	Сложных SQL-запросов c оптимизацией производительности
 ⦁	Построения реляционных моделей данных
 -->
-⦁ **`MySQL`** ⦁ PostgreSQL ⦁ **`SqLite`** ⦁
+⦁ `MySQL` ⦁ PostgreSQL ⦁ `SqLite` ⦁
 
 
 
@@ -120,7 +119,7 @@ RabbitMQ, Kafka, Docker, Amazon Web Services
 
 ---
 
-> [Algorithms](https://github.com/dpaniq/Python/tree/master/Algorithms)
+> **[Algorithms](https://github.com/dpaniq/Python/tree/master/Algorithms)**
 <!---  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Алгоритмы:
 ⦁ Sorting Algorithms 
@@ -148,7 +147,7 @@ b.	- Binary Search
 
 ---
 
-> Programming paradigm
+> **Programming paradigm**
 <!---⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Imperative programming
 Declarative programming
@@ -203,9 +202,9 @@ Methodologies / Методологии
 ⦁   Kanban
 -->
 
-> [Challenges](https://github.com/dpaniq/Python/tree/master/Challenges)
+> **[Challenges](https://github.com/dpaniq/Python/tree/master/Challenges)**
 
-⦁ `Hackerrank.com` ⦁ **`SoloLearn.com`** ⦁ `Stepik.org` 
+⦁ `Hackerrank.com` ⦁ `SoloLearn.com` ⦁ `Stepik.org` 
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 ⦁	PythonTutor ⦁	PythonChallange ⦁	SoloLearn ⦁	Timus Online Judge ⦁	ProgHub(beta) ⦁	Check.io ⦁	ACMP.RU ⦁	Project Euler ⦁	CodeCombat
@@ -232,7 +231,7 @@ Methodologies / Методологии
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 ⦁ JS/JQUERY ⦁	Go ⦁	Java ⦁	Node ⦁	Linux ⦁	React Redux
 -->
-⦁ **`HTML/HTML5`** ⦁ **`CSS`** ⦁ 
+⦁ `HTML/HTML5` ⦁ `CSS` ⦁ 
 
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
@@ -249,7 +248,7 @@ Methodologies / Методологии
 
 ---
 
-> English
+> **English**
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 B2 — Пороговый продвинутый уровень (Vantage — Upper-Intermediate)
