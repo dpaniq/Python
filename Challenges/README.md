@@ -1,29 +1,28 @@
-
-`Certificate` `Completed In` `In queue`
+### For position junior python developer
 
 | Website          | Status    	   | Course    				                            | Link to Profile				                           |
 | :--------------: | :-----------: | :------------------------------------------: | :----------------------------------------------: | 
-| **SoloLearn**    | 	       	   |    	     				                            | **https://www.sololearn.com/Profile/1456634**    | 
-| 	               | `Certificate` | Python3 | 
-| 	               | `Certificate` | CSS |
-| 	               | `Certificate` | HTML |
+| **SoloLearn**    | 	       	   |    	     				                  |**[Profile](https://www.sololearn.com/Profile/1456634)**     | 
+| 	               | `Certificate` | Python3 | 									   [Link](https://stepik.org/course/1304)
+| 	               | `Certificate` | CSS |										   [Link](https://stepik.org/course/1304)
+| 	               | `Certificate` | HTML |										   [Link](https://stepik.org/course/1304)
 |      		       |    		   |    	     				                  | 						                         |
-| **Stepik**       | 	       	   |    	     				                  | **https://stepik.org/users/29204177**      	     |
-| 	               | `Certificate` | Основы HTML & CSS <br>(Антов Глухов) |
-| 	               | `Completed`   | Python for Beginners |
-| 	               | `Completed`   | Азы Python 3+ Первый шаг <br>(Моисеев Иван) | 
-| 	               | `Completed`   | Introduction to Python <br>(Bartucz John) |
-| 	               | `Completed`   | 6 Introduction to Python <br>(Grote Robert) |
+| **Stepik**       | 	       	   |    	     				                  |**[Profile](https://stepik.org/users/29204177) **   	     |
+| 	               | `Certificate` | Основы HTML & CSS <br>(Антов Глухов) |		   [Link](https://stepik.org/course/2621)
+| 	               | `Completed`   | Python for Beginners |  					   [Link](https://stepik.org/course/5)		
+| 	               | `Completed`   | Азы Python 3+ Первый шаг <br>(Моисеев Иван) | [Link](https://stepik.org/course/9230)
+| 	               | `Completed`   | Introduction to Python <br>(Bartucz John) |   [Link](https://stepik.org/course/2740)
+| 	               | `Completed`   | 6 Introduction to Python <br>(Grote Robert) | [Link](https://stepik.org/course/6673)
 | 	               | `Completed`   | Learning Python with ITutor <br>(Школа ITutor, Василий Данилин) | [Link](https://stepik.org/course/1304)
 |      		       |    		   |    	     				                  | 						                         |
-| **Hackerrank**   | 	      	   |    	     				                  | **https://www.hackerrank.com/14brother**   	     |
-| 	               |`In` `[65/115]`| Language Proficiency: Python |
-| 	               | `In queue`    | Interview Preparaiton Kit: Python |
-| 	               | `In queue`    | Problem Solving: Algorithms |
-| 	               | `In queue`    | Problem Solving: Data Structures |
-| 	               | `In queue`    | Problem Solving: Mathematics |
-| 	               | `In queue`    | Specialied Skills: SQL |
-| 	               | `In queue`    | Specialied Skills: Databases |
-| 	               | `In queue`    | Specialied Skills: Regex |
-| 	               | `In queue`    | Learn to code in 30 days |
-| 	               | `In queue`    | 10 Days of statistics |
+| **Hackerrank**   | 	      	   |    	     				                  |**[Profile](https://www.hackerrank.com/14brother)**     	     |
+| 	               |`In` `[65/115]`| Language Proficiency: Python |				   [Link](https://stepik.org/course/1304)
+| 	               | `In queue`    | Interview Preparaiton Kit: Python |		   [Link](https://stepik.org/course/1304)
+| 	               | `In queue`    | Problem Solving: Algorithms |				   [Link](https://stepik.org/course/1304)
+| 	               | `In queue`    | Problem Solving: Data Structures |			   [Link](https://stepik.org/course/1304)
+| 	               | `In queue`    | Problem Solving: Mathematics |				   [Link](https://stepik.org/course/1304)
+| 	               | `In queue`    | Specialied Skills: SQL |					   [Link](https://stepik.org/course/1304)
+| 	               | `In queue`    | Specialied Skills: Databases |				   [Link](https://stepik.org/course/1304)
+| 	               | `In queue`    | Specialied Skills: Regex |					   [Link](https://stepik.org/course/1304)
+| 	               | `In queue`    | Learn to code in 30 days |				       [Link](https://stepik.org/course/1304)
+| 	               | `In queue`    | 10 Days of statistics |					   [Link](https://stepik.org/course/1304)
