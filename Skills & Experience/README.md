@@ -4,7 +4,7 @@
 
 
 Simple text - understanding<br>
-`Highlighting` - used<br>
+`Highlighting` - practiced<br>
 **`Highlighting-bold`** - strong knowledge<br>
 
 ---
@@ -13,36 +13,38 @@ Simple text - understanding<br>
 <!---
 Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Kivy ⦁  Nltk ⦁ OpenCV ⦁ Pymorphy2 ⦁ Pandas ⦁ PyQt ⦁ SageMath ⦁ SciPy ⦁ Scrapy ⦁ Seaborn ⦁ Snowballstemmer  ⦁	SymPy ⦁	WinPython ⦁	Tensorflow
 -->
- ⦁ `Matplotlib` ⦁ `NumPy` ⦁ `Python Imaging Library` ⦁ `PyPI` ⦁ `Tkinter` ⦁ 
+⦁ `Matplotlib` ⦁ `NumPy` ⦁ `Python Imaging Library` ⦁ `PyPI` ⦁ `Tkinter` ⦁ 
  
 ---
 
-
+> Frameworks
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Фреймворки:
 ⦁	DJANGO 2+ ⦁	Kivy ⦁	CherryPi ⦁	Pyramid ⦁	ASYNCIO ⦁	FLASK ⦁	Ansible ⦁	Celery 4+ ⦁	Silk ⦁	Ephem ⦁	TurboGears ⦁	Flower ⦁	Xapian-haystack
 ⦁	Tornado ⦁	Retry ⦁	CPython ⦁	QTDesinger ⦁	Dynamo + Revit
 -->
-> Frameworks
+⦁ Django ⦁	Flask ⦁	Kivy ⦁	QtDesigner ⦁
 
-⦁ Django ⦁	Flask ⦁	Kivy ⦁	QtDesigner
+---
 
-
-
-
+> Programming principle:
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
-Подходы:
+
 ⦁	ООП
 ⦁	SOLID
 ⦁	DRY
 -->
+⦁ DRY
 
+---
+
+> Databases
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 ⦁	PostgreSQL
-Aurora
+⦁	Aurora
 ⦁	Redis
 ⦁	NoSQL
 ⦁	MongoDB
@@ -55,8 +57,9 @@ Aurora
 ⦁	Сложных SQL-запросов c оптимизацией производительности
 ⦁	Построения реляционных моделей данных
 -->
-> Databases
+⦁ **`MySQL`** ⦁ PostgreSQL ⦁ **`SqLite`** ⦁
 
+---
 
 
 <!---
@@ -102,7 +105,7 @@ RabbitMQ, Kafka, Docker, Amazon Web Services
 ---
 
 <!---
-Наука:
+Наука: ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 ⦁	Численные методы
 ⦁	Линейная алгебра
 ⦁	Статистика
@@ -110,19 +113,24 @@ RabbitMQ, Kafka, Docker, Amazon Web Services
 ⦁	Теория графов
 ⦁	Марковские модели
 ⦁	Методы численного анализа
+⦁ 	Numerical methods
+⦁ 	Linear algebra
+⦁ 	Statistics
+⦁ 	Optimization methods
+⦁ 	Graph theory
+⦁ 	Markov models
+⦁ 	Numerical analysis methods
 -->
 
 ---
 
-> Algorithms
-⦁	`Fibonacci sequence` ⦁	
-<!---
-
+> [Algorithms](https://github.com/dpaniq/Python/tree/master/Algorithms)
+⦁	`Fibonacci sequence` ⦁ `Insertion sort` ⦁	
+<!---  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Алгоритмы:
-⦁	Sorting Algorithms 
+⦁ Sorting Algorithms 
 a.	- Bubble sort
 b.	- Selection sort
-c.	- Insertion sort
 d.	- Merge Sort
 ⦁	 Searching Algorithms
 a.	- Liear Search
@@ -143,25 +151,24 @@ b.	- Binary Search
 ⦁	
 -->
 
+---
 
+> Programming paradigm
+<!---⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
+Imperative programming
+Declarative programming
+Structured programming
+Functional programming
+-->
+⦁ Logic programming ⦁ Object oriented programming ⦁
+
+---
 
 <!---
-your comment goes here
-and here
--->
-
-
-
-<!---
-your comment goes here
-and here
--->
-
-
-
-Тип архитектуры
+Web запросы
 ⦁	REST / RESTful
 ⦁	API: Разработка API методов
+-->
 
 <!---
 Понимание:
@@ -198,10 +205,10 @@ Methodologies / Методологии
 ⦁	SCRUM
 ⦁	Agile
 ⦁	RUP
-⦁ Kanban
+⦁   Kanban
 -->
 
-> Challenges
+> [Challenges](https://github.com/dpaniq/Python/tree/master/Challenges)
 
 ⦁ `Hackerrank.com` ⦁ **`SoloLearn.com`** ⦁ `Stepik.org` 
 <!---
@@ -217,6 +224,7 @@ Methodologies / Методологии
 -->
 
 ---
+
 > English
 
 ⦁ **`(A1)Basic User`** ⦁ **`(A1)Survival Level — Beginner и Elementary`** ⦁ **`(A2)Waystage — Pre-Intermediate`** ⦁ **`(B)Independent User`** ⦁ `(B1)Threshold — Intermediate` ⦁  ⦁  ⦁  ⦁ 
@@ -232,14 +240,15 @@ C2 — Уровень владения в совершенстве (Mastery — 
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 > ⦁ Web ⦁ HTTP ⦁ HTTPS ⦁ SSH ⦁ ClientServer ⦁ WEB STACK ⦁ 
 -->
----
-> **Another Language**
 
-⦁ **`HTML/HTML5`** ⦁ **`CSS`** ⦁ 
+---
+
+> **Another Language**
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 ⦁ JS/JQUERY ⦁	Go ⦁	Java ⦁	Node ⦁	Linux ⦁	React Redux
 -->
+⦁ **`HTML/HTML5`** ⦁ **`CSS`** ⦁ 
 
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
