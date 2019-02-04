@@ -9,7 +9,7 @@ Simple text - understanding<br>
 
 ---
 
-> **3rdParty Libraries / Стороние Библиотеки**:
+> **3rd-party libraries:
 <!---
 Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Kivy ⦁  Nltk ⦁ OpenCV ⦁ Pymorphy2 ⦁ Pandas ⦁ PyQt ⦁ SageMath ⦁ SciPy ⦁ Scrapy ⦁ Seaborn ⦁ Snowballstemmer  ⦁	SymPy ⦁	WinPython ⦁	Tensorflow
 -->
@@ -17,7 +17,7 @@ Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Ki
  
 ---
 
-> Frameworks
+> Frameworks:
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Фреймворки:
@@ -59,7 +59,6 @@ Beautiful Soup ⦁ Bottle ⦁ Cpython ⦁	IronPython ⦁ Jupyter Notebook ⦁	Ki
 -->
 ⦁ **`MySQL`** ⦁ PostgreSQL ⦁ **`SqLite`** ⦁
 
----
 
 
 <!---
@@ -102,7 +101,6 @@ RabbitMQ, Kafka, Docker, Amazon Web Services
 ⦁	ETL (Dataiku, Cask, Pentaho)
 -->
 
----
 
 <!---
 Наука: ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
@@ -125,7 +123,6 @@ RabbitMQ, Kafka, Docker, Amazon Web Services
 ---
 
 > [Algorithms](https://github.com/dpaniq/Python/tree/master/Algorithms)
-⦁	`Fibonacci sequence` ⦁ `Insertion sort` ⦁	
 <!---  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 Алгоритмы:
 ⦁ Sorting Algorithms 
@@ -148,8 +145,8 @@ b.	- Binary Search
 ⦁	Computer Science / Знание классических алгоритмов и структур данных
 ⦁	Data Mining
 ⦁	Нейронные сети
-⦁	
 -->
+⦁	`Fibonacci sequence` ⦁ `Insertion sort` ⦁
 
 ---
 
@@ -160,7 +157,7 @@ Declarative programming
 Structured programming
 Functional programming
 -->
-⦁ Logic programming ⦁ Object oriented programming ⦁
+⦁ `Logic programming` ⦁ `Object oriented programming` ⦁
 
 ---
 
@@ -215,7 +212,7 @@ Methodologies / Методологии
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
 ⦁	PythonTutor ⦁	PythonChallange ⦁	SoloLearn ⦁	Timus Online Judge ⦁	ProgHub(beta) ⦁	Check.io ⦁	ACMP.RU ⦁	Project Euler ⦁	CodeCombat
 ⦁	QuizFul ⦁	CoderByte ⦁	Operation Go ⦁	SPOJ ⦁	GeeksforGeeks ⦁	CodeChef ⦁	CodeWars ⦁	CodeFights ⦁	Empire of Code ⦁	CodinGame ⦁	TopCoder
-⦁	LeetCode ⦁	Codeforces ⦁	Kaggle -->
+⦁	LeetCode ⦁	Codeforces ⦁	Kaggle ⦁ challenges.reply.com  -->
 
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
@@ -223,18 +220,7 @@ Methodologies / Методологии
 ⦁	Redshift ⦁	Azure Data Warehouse ⦁	Lake ⦁	HDInsight
 -->
 
----
 
-> English
-
-⦁ **`(A1)Basic User`** ⦁ **`(A1)Survival Level — Beginner и Elementary`** ⦁ **`(A2)Waystage — Pre-Intermediate`** ⦁ **`(B)Independent User`** ⦁ `(B1)Threshold — Intermediate` ⦁  ⦁  ⦁  ⦁ 
-<!---
-⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
-B2 — Пороговый продвинутый уровень (Vantage — Upper-Intermediate)
-C — Свободное владение (Proficient User);
-C1 — Уровень профессионального владения (Effective Operational Proficiency — Advanced)
-C2 — Уровень владения в совершенстве (Mastery — Proficiency)
--->
 
 <!---
 ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
@@ -262,3 +248,15 @@ C2 — Уровень владения в совершенстве (Mastery — 
 ⦁	Галерея приложений
 ⦁	Галерея версток + ссылка
 -->
+
+---
+
+> English
+<!---
+⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  ⦁  a b c d e f g h i j k l m n o p q r s t u v w x y z 
+B2 — Пороговый продвинутый уровень (Vantage — Upper-Intermediate)
+C — Свободное владение (Proficient User);
+C1 — Уровень профессионального владения (Effective Operational Proficiency — Advanced)
+C2 — Уровень владения в совершенстве (Mastery — Proficiency)
+-->
+⦁ `(B1)Threshold — Intermediate` ⦁
