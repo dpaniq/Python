@@ -6,19 +6,21 @@
 #          lis.append(lis[i-2] + lis[i-1])
 #      return(lis[0:n])
 #
-# F(n)
+# print(sum(F(2000000)))
 
 # But better
 
-# def F(n):
-#     if n == 0: return 0
-#     elif n == 1: return 1
-#     else: return F(n-1)+F(n-2)
+def F(n):
+    if n == 0: return 0
+    elif n == 1: return 1
+    else: return F(n-1)+F(n-2)
+
+F(2000000)
 
 # Generator
-
-def F():
-    a,b = 0,1
-    while True:
-        yield a
-        a, b = b, a + b
+#
+# def F():
+#     a,b = 0,1
+#     while True:
+#         yield a
+#         a, b = b, a + b
