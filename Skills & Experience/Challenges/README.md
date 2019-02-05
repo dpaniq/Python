@@ -29,6 +29,5 @@
 | 	               | `In queue`    | Learn to code in 30 days |				       [Link](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | 	               | `In queue`    | 10 Days of statistics |					   [Link](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
 
- Python for Programmers Alex Martelli https://stepik.org/course/10
 
 
