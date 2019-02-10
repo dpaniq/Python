@@ -15,6 +15,7 @@
 | 	               | `Completed`   | Introduction to Python <br>(Bartucz John) |   [Link](https://stepik.org/course/2740)
 | 	               | `Completed`   | 6 Introduction to Python <br>(Grote Robert) | [Link](https://stepik.org/course/6673)
 | 	               | `Completed`   | Learning Python with ITutor <br>(Школа ITutor, Василий Данилин) | [Link](https://stepik.org/course/1304)
+| 	               | `Certificate` | Программирование на Python <br>(Институт биоинформатики) |		   [Link](https://stepik.org/course/67)
 |      		       |    		   |    	     				                  | 						                         |
 | **Hackerrank**   | 	      	   |    	     				                  | **[Profile](https://www.hackerrank.com/14brother)**     	     |
 | 	               |`In` `[65/115]`| Language Proficiency: Python |				   [Link](https://www.hackerrank.com/domains/python?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=python)
