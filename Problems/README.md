@@ -41,6 +41,7 @@ Independent execution of algorithms for understanding and detailed analysis
 	
 [Problems](https://github.com/dpaniq/Python/tree/master/Problems): <br>
 Here are the sites with the courses, books and video courses that I passed/perfomed
+
 	* [Books](https://github.com/dpaniq/Python/tree/master/Problems/Books)
 	* [Video course](https://github.com/dpaniq/Python/tree/master/Problems/VideoCourse)
 	
