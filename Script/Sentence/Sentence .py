@@ -1,5 +1,4 @@
-# version 0.2
-# ---------------------------------------------------------------------------- #
+﻿# ---------------------------------------------------------------------------- #
 import re
 import enchant  # pip install pyenchant
 vocabulary = enchant.Dict("en_US")
@@ -115,7 +114,7 @@ class Word(Sentence):
 #                                   Output
 # ---------------------------------------------------------------------------- #
 print("word <= 8 letter and sentence < 8 word! a ab abc abcd abcde abcdef abcdefg NOT LONGER!")
-example = ['dog is in ocean', 'real swords', 'miss roses act', 'like this', 'dog is god']
+example = ['dog is in ocean', 'real swords', 'miss roses act', 'like this']
 while True:
     print('Example: {}'.format(example[random.randint(0, len(example)-1)]))
     trying = Word(input())
