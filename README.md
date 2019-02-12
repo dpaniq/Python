@@ -5,7 +5,7 @@ Hello there,
 
 My name is Bogdan Gromov,
 I am from Lativa and me 24 years old.
-Full information about me you can see [here](#).
+Full information about me you can see [here](https://github.com/dpaniq/dpaniq.github.io/blob/master/images/documents/CV-Resume-Gromov%20Bogdan.pdf).
 
 I present personal portfolio, which I earned with honest studying hour after hour algorithms, rules, features and properties to collecting this modest collection of code.
 
