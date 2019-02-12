@@ -28,7 +28,8 @@ Homepage - where it all starts
 Independent execution of algorithms for understanding and detailed analysis
 	
 [Problems](https://github.com/dpaniq/Python/tree/master/Problems): <br>
-Here are the sites with the courses, books and video courses that I passed/perfomed
+Here are the sites with the courses, books and video courses that I passed/perfomed<br>
+>[Video course](https://github.com/dpaniq/Python/tree/master/Problems/VideoCourse)	
 	
 [Script](https://github.com/dpaniq/Python/tree/master/Script)<br>
 Scripts that I developed
