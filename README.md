@@ -1,6 +1,6 @@
 Hello there,
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Gromov Bogdan")
+![alt text](https://www.dpaniq.github.io/images/documents/Profile.JPG "Gromov Bogdan")
 
 My name is Bogdan Gromov, i am from Lativa and me 24 years old.
 Full information about me you can see [here](#).
