@@ -1,3 +1,22 @@
+[Algorithms](https://github.com/dpaniq/Python/tree/master/Algorithms):
+
+	Independent execution of algorithms for understanding and detailed analysis
+	
+[Problems](https://github.com/dpaniq/Python/tree/master/Problems)
+
+	Here are the sites with the objectives of the book and video courses that I read/studied/performed.
+	
+[Script](https://github.com/dpaniq/Python/tree/master/Script)
+
+	Scripts that I developed
+	
+[Skills](https://github.com/dpaniq/Python/tree/master/Experience%20%26%20Skills)
+
+	Listed skills that I own in full
+
+
+
+
 # Direction in development / Направления в разработке
 
 ### 1. General:
