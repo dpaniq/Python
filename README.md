@@ -1,18 +1,26 @@
-[Algorithms](https://github.com/dpaniq/Python/tree/master/Algorithms):
+Hello there,
 
-	Independent execution of algorithms for understanding and detailed analysis
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Gromov Bogdan")
+
+My name is Bogdan Gromov, i am from Lativa and me 24 years old.
+Full information about me you can see [here](#).
+
+I present personal portfolio, which I earned with honest studying hour after hour algorithms, rules, features and properties to collecting this modest collection of code. `
+
+
+#### Go to the link for more information.
+
+[Algorithms](https://github.com/dpaniq/Python/tree/master/Algorithms): <br>
+Independent execution of algorithms for understanding and detailed analysis
 	
-[Problems](https://github.com/dpaniq/Python/tree/master/Problems)
-
-	Here are the sites with the objectives of the book and video courses that I read/studied/performed.
+[Problems](https://github.com/dpaniq/Python/tree/master/Problems): <br>
+Here are the sites with the objectives of the book and video courses that I read/studied/performed.
 	
-[Script](https://github.com/dpaniq/Python/tree/master/Script)
-
-	Scripts that I developed
+[Script](https://github.com/dpaniq/Python/tree/master/Script)<br>
+Scripts that I developed
 	
-[Skills](https://github.com/dpaniq/Python/tree/master/Experience%20%26%20Skills)
-
-	Listed skills that I own in full
+[Skills](https://github.com/dpaniq/Python/tree/master/Experience%20%26%20Skills)<br>
+Listed skills that I own in full
 
 
 
