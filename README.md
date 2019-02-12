@@ -26,7 +26,8 @@ Scripts that I developed
 [Skills](https://github.com/dpaniq/Python/tree/master/Experience%20%26%20Skills)<br>
 Listed skills that I own in full
 
-
+[Wiki](https://github.com/dpaniq/Python/wiki) <br>
+A short squeeze or cheat sheet
 
 
 # Direction in development / Направления в разработке
