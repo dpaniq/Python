@@ -11,6 +11,8 @@ I present personal portfolio, which I earned with honest studying hour after hou
 
 
 #### Go to the link for more information.
+[Main](https://github.com/dpaniq/Python): <br>
+Homepage - where it all starts
 
 [Algorithms](https://github.com/dpaniq/Python/tree/master/Algorithms): <br>
 Independent execution of algorithms for understanding and detailed analysis
