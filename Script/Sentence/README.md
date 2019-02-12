@@ -14,41 +14,43 @@ Version 0.2
 
 #### What is a Problem?
 
-Sentence is 'dog is in ocean', so:
-
+Sentence is 'dog is in ocean', so: <br>
 These sentences are correct:
-> dog is in `canoe`
+> dog is in `canoe` <br>
 > `god` is in ocean
 > ...
 
 And these sentences are incorrect:
-> dog !`in is` ocean
+> dog !`in is` ocean <br>
 > other permutations of original sentence
 
 #### Some Example
-[Dog is god]()
+[Dog is god](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Dog%20is%20god.png)
 
-[Dog is in ocean]()
+[Dog is in ocean](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Dog%20is%20in%20ocean.png)
 
-[Like this]()
+[Like this](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Like%20this.png)
 
-[Real swords]()
+[Real swords](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Real%20swords.png)
 
-[Miss roses act]()
+[Miss roses act](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Miss%20roses%20act.png)
 
 
 #### Idea how do better:
 
-#####Letters in word:
+##### Letters in word:
+
 If word > 8 letter, then need to rearrange 1/2 of word permutation, and leave other
 
 ##### Words in sentence:
 Leave only one variable of sentence permutation possible.
 
 For example:
-god is ocean --> `is god canoe` (Stop) other like - `is canoe god` or `god canoe is` dropped
+
+god is ocean --> `is god canoe` --> *(Stop! other like - `is canoe god` or `god canoe is` dropped)*
 
 
 #### Problem
-[Problem]()
+[Problem](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Problem.png)
+
 The number of letters and words more than 8 is allowed, but the time of the permutation grows exponentially and after 8 words 30 seconds +.
