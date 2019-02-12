@@ -18,6 +18,7 @@
 | Publisher          				| Author    					  | Title 											| Year   |	
 | Publisher          				| Author    					  | Title 											| Year   |	
 --->
+___
 
 #### Go to the link for more information.
 [Main](https://github.com/dpaniq/Python): <br>
