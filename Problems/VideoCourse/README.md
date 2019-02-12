@@ -1,3 +1,16 @@
+### The list of video courses that I have passed
+
+| Author    					  | Title 											| Year   |				                   
+| :-----------------------------: | :---------------------------------------------:	| :----: | 
+| ITVDN  				  		  | Python Starter 									| 2016   |
+| O'Reilly 				  		  | Introduction to Python							| 2014   |
+
+<!---
+| Author    					  | Title 											| Year   |	
+| Author    					  | Title 											| Year   |	
+| Author    					  | Title 											| Year   |	
+--->
+
 #### Go to the link for more information.
 [Main](https://github.com/dpaniq/Python): <br>
 Homepage - where it all starts
@@ -16,18 +29,5 @@ Listed skills that I own in full
 
 [Wiki](https://github.com/dpaniq/Python/wiki) <br>
 A short squeeze or cheat sheet
-
-### The list of books that I studied
-
-| Publisher          				| Author    					  | Title 											| Year   |				                   
-| :-------------------------------: | :-----------------------------: | | :-------------------------------------------: | :----: | 
-| Pythonworld.ru					| Дмитрий Мусин  				  | Самоучитель Python 								| 2017   |	
-
-<!---
-| Publisher          				| Author    					  | Title 											| Year   |	
-| Publisher          				| Author    					  | Title 											| Year   |	
-| Publisher          				| Author    					  | Title 											| Year   |	
---->
-
 
 

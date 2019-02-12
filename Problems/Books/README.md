@@ -1,3 +1,24 @@
+### The list of books that I studied
+
+#### Python
+
+| Publisher          				| Author    					  | Title 											| Year   |				                   
+| :-------------------------------: | :-----------------------------: | :---------------------------------------------: | :----: | 
+| Pythonworld.ru					| Дмитрий Мусин  				  | Самоучитель Python 								| 2017   |	
+
+
+#### Thematic
+
+| Publisher          				| Author    					  | Title 											| Year   |				                   
+| :-------------------------------: | :-----------------------------: | | :-------------------------------------------: | :----: | 
+| Microsoft Press					| Charles Petzold  				  | Code											| 2000   |	
+
+<!---
+| Publisher          				| Author    					  | Title 											| Year   |	
+| Publisher          				| Author    					  | Title 											| Year   |	
+| Publisher          				| Author    					  | Title 											| Year   |	
+--->
+
 #### Go to the link for more information.
 [Main](https://github.com/dpaniq/Python): <br>
 Homepage - where it all starts
@@ -16,18 +37,4 @@ Listed skills that I own in full
 
 [Wiki](https://github.com/dpaniq/Python/wiki) <br>
 A short squeeze or cheat sheet
-
-### The list of books that I studied
-
-| Publisher          				| Author    					  | Title 											| Year   |				                   
-| :-------------------------------: | :-----------------------------: | | :-------------------------------------------: | :----: | 
-| Pythonworld.ru					| Дмитрий Мусин  				  | Самоучитель Python 								| 2017   |	
-
-<!---
-| Publisher          				| Author    					  | Title 											| Year   |	
-| Publisher          				| Author    					  | Title 											| Year   |	
-| Publisher          				| Author    					  | Title 											| Year   |	
---->
-
-
 

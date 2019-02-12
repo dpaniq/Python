@@ -1,5 +1,6 @@
-### For position junior python developer
+## That's for position junior python developer
 
+### The list of site with problems and courses that I have passed
 | Website          | Status    	   | Course    				                            | Link to Profile				                           |
 | :--------------: | :-----------: | :------------------------------------------: | :----------------------------------------------: | 
 | **SoloLearn**    | 	       	   |    	     				                  | **[Profile](https://www.sololearn.com/Profile/1456634)**     | 
@@ -30,5 +31,26 @@
 | 	               | `In queue`    | Learn to code in 30 days |				       [Link](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 | 	               | `In queue`    | 10 Days of statistics |					   [Link](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
 
+
+#### Go to the link for more information.
+[Main](https://github.com/dpaniq/Python): <br>
+Homepage - where it all starts
+
+[Algorithms](https://github.com/dpaniq/Python/tree/master/Algorithms): <br>
+Independent execution of algorithms for understanding and detailed analysis
+	
+[Problems](https://github.com/dpaniq/Python/tree/master/Problems): <br>
+Here are the sites with the courses, books and video courses that I passed/perfomed
+	* [Books](https://github.com/dpaniq/Python/tree/master/Problems/Books)
+	* [Video course](https://github.com/dpaniq/Python/tree/master/Problems/VideoCourse)
+	
+[Script](https://github.com/dpaniq/Python/tree/master/Script)<br>
+Scripts that I developed
+	
+[Skills](https://github.com/dpaniq/Python/tree/master/Experience%20%26%20Skills)<br>
+Listed skills that I own in full
+
+[Wiki](https://github.com/dpaniq/Python/wiki) <br>
+A short squeeze or cheat sheet
 
 
