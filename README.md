@@ -5,7 +5,7 @@ Hello there,
 
 My name is Bogdan Gromov,
 I am from Lativa and me 24 years old.
-Full information about me you can see [here](#).
+Full information about me you can see [here](https://github.com/dpaniq/dpaniq.github.io/blob/master/images/documents/CV-Resume-Gromov%20Bogdan.pdf).
 
 I present personal portfolio, which I earned with honest studying hour after hour algorithms, rules, features and properties to collecting this modest collection of code.
 
@@ -18,7 +18,7 @@ Homepage - where it all starts
 Independent execution of algorithms for understanding and detailed analysis
 	
 [Problems](https://github.com/dpaniq/Python/tree/master/Problems): <br>
-Here are the sites with the objectives of the book and video courses that I read/studied/performed.
+Here are the sites with the courses, books and video courses that I passed/perfomed
 	
 [Script](https://github.com/dpaniq/Python/tree/master/Script)<br>
 Scripts that I developed
