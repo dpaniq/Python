@@ -3,7 +3,7 @@ Version 0.2
 
 ### The "Sentence" script makes:
 >1. Defines new words in a sentence.
->2. Identifies all new offers
+>2. Identifies all new sentences
 >3. Determines the uniqueness of the offer.
 
 ### The "Sentence" script does not allow:
@@ -14,7 +14,7 @@ Version 0.2
 
 #### What is a Problem?
 
-Sentence is 'dog is in ocean', so: <br>
+Sentence is `'dog is in ocean'`, so: <br>
 These sentences are correct:
 > dog is in `canoe` <br>
 > `god` is in ocean
@@ -25,15 +25,25 @@ And these sentences are incorrect:
 > other permutations of original sentence
 
 #### Some Example
-[Dog is god](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Dog%20is%20god.png)
+> [Dog is god]:
 
-[Dog is in ocean](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Dog%20is%20in%20ocean.png)
+![alt text](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Dog%20is%20god.png)
 
-[Like this](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Like%20this.png)
+> [Dog is in ocean]:
 
-[Real swords](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Real%20swords.png)
+![alt text](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Dog%20is%20in%20ocean.png)
 
-[Miss roses act](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Miss%20roses%20act.png)
+> [Like this]:
+
+![alt text](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Like%20this.png)
+
+> [Real swords]:
+
+![alt text](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Real%20swords.png)
+
+> [Miss roses act]:
+
+![alt text](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Miss%20roses%20act.png)
 
 
 #### Idea how do better:
@@ -51,6 +61,8 @@ god is ocean --> `is god canoe` --> *(Stop! other like - `is canoe god` or `god 
 
 
 #### Problem
-[Problem](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Problem.png)
+
+>[Problem]:
+![alt text](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Problem.png)
 
 The number of letters and words more than 8 is allowed, but the time of the permutation grows exponentially and after 8 words 30 seconds +.
