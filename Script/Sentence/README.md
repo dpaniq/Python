@@ -26,18 +26,23 @@ And these sentences are incorrect:
 
 #### Some Example
 > [Dog is god]:
+
 ![alt text](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Dog%20is%20god.png)
 
 > [Dog is in ocean]:
-![alt text][Dog is in ocean](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Dog%20is%20in%20ocean.png)
+
+![alt text](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Dog%20is%20in%20ocean.png)
 
 > [Like this]:
-![alt text][Like this](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Like%20this.png)
+
+![alt text](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Like%20this.png)
 
 > [Real swords]:
+
 ![alt text](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Real%20swords.png)
 
 > [Miss roses act]:
+
 ![alt text](https://github.com/dpaniq/Python/blob/master/Script/Sentence/img/Miss%20roses%20act.png)
 
 
