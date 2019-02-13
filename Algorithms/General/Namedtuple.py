@@ -1,3 +1,6 @@
+# ---------------------------------------------------------------------------- #
+#                               NamedTuple
+# ---------------------------------------------------------------------------- #
 from collections import namedtuple
 
 # collections.namedtuple()
@@ -31,8 +34,6 @@ from collections import namedtuple
 z, n, b = 0, int(input()), namedtuple('Avarage', input().split())
 print(sum([int(b(*input().split()).MARKS) for i in range(n)])/n)
 
-
-from collections import namedtuple
 Car = namedtuple('Car', 'color speed')
 
 z = Car('red', 800).color
@@ -40,17 +41,12 @@ print(z)
 z = Car('red', 800)
 print(z)
 
-
-
-
 # for i in range(n):
 #     b(*input().split())
 # #     print(d)
 # #     z += int(d.MARKS)
 # #     print(b.MARKS)
 # # print('{:.2f}'.format(z/n))
-
-
 
 #     ID         MARKS      NAME       CLASS
 #       1          97         Raymond    7
@@ -70,3 +66,6 @@ print(z)
 # 82         2          Fergus     5
 
 # Output 81.00
+# ---------------------------------------------------------------------------- #
+#                                 13/02/2019
+# ---------------------------------------------------------------------------- #
