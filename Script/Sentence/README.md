@@ -3,7 +3,7 @@ Version 0.2
 
 ### The "Sentence" script makes:
 >1. Defines new words in a sentence.
->2. Identifies all new offers
+>2. Identifies all new sentences
 >3. Determines the uniqueness of the offer.
 
 ### The "Sentence" script does not allow:
