@@ -2,22 +2,19 @@
 
 #### Python
 
-| Publisher          				| Author    					  | Title 											| Year   |				                   
-| :-------------------------------: | :-----------------------------: | :---------------------------------------------: | :----: | 
-| Pythonworld.ru					| Дмитрий Мусин  				  | Самоучитель Python 								| 2017   |	
+| Publisher          				| Author    					  			| Title 											| Year   |				                   
+| :-------------------------------: | :---------------------------------------: | :-----------------------------------------------: | :----: |
+| Невский диалект  				| Откидач Дмитрий, Guido Van Rossum, Fred Drake | Язык программирования Python					    | 2001   | 
+| Pythonworld.ru					| Дмитрий Мусин  				  			| Самоучитель Python 					            | 2017   |	
 
 
 #### Thematic
 
-| Publisher          				| Author    					  | Title 											| Year   |				                   
-| :-------------------------------: | :-----------------------------: | | :-------------------------------------------: | :----: | 
-| Microsoft Press					| Charles Petzold  				  | Code											| 2000   |	
+| Publisher          				| Author    					  			| Title 											| Year   |				                   
+| :-------------------------------: | :---------------------------------------: | :-----------------------------------------------: | :----: | 
+| Microsoft Press					| Charles Petzold  				  			| Code											    | 2000   |	
 
-<!---
-| Publisher          				| Author    					  | Title 											| Year   |	
-| Publisher          				| Author    					  | Title 											| Year   |	
-| Publisher          				| Author    					  | Title 											| Year   |	
---->
+
 ___
 
 #### Go to the link for more information.
